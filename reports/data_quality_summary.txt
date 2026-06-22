@@ -1,0 +1,11 @@
+DATA QUALITY SUMMARY
+
+Datasets Checked: 6
+
+Observations:
+
+1. All CSV files loaded successfully.
+2. NAV column contains numeric values.
+3. Date column present in all datasets.
+4. No major missing values observed.
+5. Dataset structure is consistent across files.
