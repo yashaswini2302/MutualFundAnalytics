@@ -1,11 +1,26 @@
 DATA QUALITY SUMMARY
 
-Datasets Checked: 6
+Files Processed:
+1. fund_master.csv
+2. nav_history_clean.csv
+3. investor_transactions_clean.csv
+4. scheme_performance_clean.csv
 
-Observations:
+Validation Checks:
+- Removed duplicate records
+- Converted dates to standard format
+- Validated NAV > 0
+- Validated transaction amount > 0
+- Standardized transaction types
+- Validated expense ratio range
+- Removed null values
 
-1. All CSV files loaded successfully.
-2. NAV column contains numeric values.
-3. Date column present in all datasets.
-4. No major missing values observed.
-5. Dataset structure is consistent across files.
+Database:
+- SQLite database created successfully
+- Star schema implemented
+
+Row Counts:
+dim_fund: 6
+fact_nav: 19881
+fact_transactions: 1000
+fact_performance: 6
