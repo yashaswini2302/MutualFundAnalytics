@@ -1,1001 +1,1001 @@
 transaction_id,investor_id,amfi_code,fund_name,transaction_type,amount,transaction_date,kyc_status
-1,29241,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,46235,2025-10-18,Pending
-2,89691,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,13176,2025-05-21,Verified
-3,60413,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,16441,2026-01-26,Pending
-4,16660,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,45445,2025-05-26,Verified
-5,88546,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,61971,2026-01-26,Pending
-6,35251,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,27558,2026-04-08,Verified
-7,51044,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,99824,2025-12-28,Pending
-8,38205,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,89230,2025-02-19,Verified
-9,48108,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,54133,2025-02-26,Pending
-10,57933,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,95104,2025-02-10,Pending
-11,69040,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,72251,2025-04-21,Pending
-12,45060,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,70360,2025-03-29,Pending
-13,54939,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,46414,2025-05-14,Pending
-14,14589,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,83380,2025-11-08,Verified
-15,92255,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,28542,2025-01-11,Verified
-16,95332,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,77530,2025-03-29,Pending
-17,17936,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,37569,2025-06-04,Verified
-18,67412,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,34405,2025-09-26,Verified
-19,56729,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,74214,2025-03-18,Pending
-20,33728,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,40194,2026-05-15,Verified
-21,21202,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,64146,2025-02-12,Verified
-22,74205,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,61231,2025-05-20,Verified
-23,30800,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,68930,2026-01-19,Verified
-24,77817,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,54170,2025-12-31,Pending
-25,72988,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,59073,2025-11-20,Verified
-26,80159,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,94562,2025-11-02,Pending
-27,68495,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,46225,2026-03-25,Pending
-28,61429,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,95899,2025-09-24,Verified
-29,36181,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,27858,2025-06-16,Verified
-30,84282,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,25808,2025-02-24,Verified
-31,84093,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,68621,2025-04-29,Pending
-32,33005,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,70554,2025-08-04,Pending
-33,86327,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,87425,2025-10-28,Verified
-34,30541,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,31543,2025-09-12,Pending
-35,42499,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,91931,2026-05-10,Pending
-36,70577,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,52834,2025-02-22,Pending
-37,56411,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,8246,2026-02-18,Pending
-38,97048,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,89519,2026-01-21,Pending
-39,62049,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,13957,2025-10-14,Verified
-40,17670,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,12725,2025-03-14,Verified
-41,85686,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,90856,2026-04-07,Pending
-42,15906,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,37202,2025-03-22,Verified
-43,56059,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,81990,2026-05-05,Verified
-44,21364,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,29808,2025-11-17,Verified
-45,16437,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,22093,2025-01-17,Pending
-46,43233,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,20167,2025-05-14,Verified
-47,33154,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,55106,2026-04-18,Verified
-48,24009,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,12316,2025-12-01,Verified
-49,98358,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,37621,2026-02-28,Pending
-50,82906,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,47868,2025-02-01,Pending
-51,18190,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,56922,2025-04-11,Verified
-52,92768,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,18529,2025-08-12,Pending
-53,68373,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,2299,2026-02-09,Pending
-54,91763,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,78829,2025-07-12,Verified
-55,82857,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,85743,2026-04-24,Verified
-56,12758,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,525,2025-07-15,Verified
-57,89040,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,38747,2025-03-17,Verified
-58,80602,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,55219,2025-12-24,Pending
-59,67639,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,40819,2025-02-14,Verified
-60,81459,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,98208,2025-10-22,Verified
-61,97761,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,25902,2026-01-01,Pending
-62,26872,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,80625,2026-03-03,Pending
-63,18361,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,47345,2025-03-11,Verified
-64,48033,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,36808,2026-03-08,Verified
-65,48264,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,51126,2025-01-03,Verified
-66,26084,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,94955,2025-05-17,Verified
-67,76917,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,36739,2025-09-19,Verified
-68,97243,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,3089,2026-04-07,Verified
-69,29523,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,87050,2025-07-11,Pending
-70,47206,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,1587,2025-11-12,Pending
-71,46883,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,8751,2025-04-21,Pending
-72,23412,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,49995,2025-07-11,Pending
-73,22950,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,2411,2026-03-01,Pending
-74,67347,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,43353,2025-03-20,Verified
-75,29204,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,22519,2025-02-15,Verified
-76,68418,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,99912,2025-05-28,Pending
-77,14413,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,73522,2025-02-14,Verified
-78,94715,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,98769,2025-06-21,Verified
-79,71168,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,42807,2026-05-09,Pending
-80,66400,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,80621,2025-04-21,Pending
-81,75577,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,85152,2026-02-13,Verified
-82,24021,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,21156,2026-05-07,Verified
-83,76165,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,35050,2026-02-05,Verified
-84,90641,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,66867,2026-04-03,Verified
-85,62660,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,2131,2025-10-15,Pending
-86,80959,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,18766,2025-06-01,Pending
-87,52959,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,69909,2025-03-20,Pending
-88,50870,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,71474,2025-04-08,Verified
-89,88876,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,20226,2025-05-09,Pending
-90,68857,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,88738,2025-06-29,Verified
-91,33259,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,8727,2025-09-05,Verified
-92,13263,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,28023,2025-04-26,Verified
-93,82458,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,57847,2025-01-17,Pending
-94,11060,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,58445,2025-09-11,Verified
-95,92417,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,34484,2025-09-03,Pending
-96,86648,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,96874,2026-04-04,Verified
-97,71604,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,48826,2025-12-21,Pending
-98,37563,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,82319,2025-10-31,Verified
-99,91115,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,12640,2025-04-11,Verified
-100,94537,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,47181,2025-06-26,Verified
-101,73402,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,30683,2026-04-20,Pending
-102,46891,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,76274,2026-04-01,Verified
-103,32865,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,25317,2025-09-27,Pending
-104,95123,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,50690,2025-12-11,Verified
-105,42045,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,38215,2025-09-03,Verified
-106,62362,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,51752,2026-05-12,Verified
-107,52786,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,42122,2025-12-16,Verified
-108,32884,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,73849,2025-05-12,Verified
-109,57379,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,20197,2025-07-16,Pending
-110,60262,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,60090,2026-05-01,Pending
-111,51493,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,99415,2026-03-14,Verified
-112,51956,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,65819,2026-05-04,Pending
-113,41660,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,39270,2025-10-20,Pending
-114,42509,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,91434,2026-01-22,Pending
-115,32078,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,16524,2025-07-06,Pending
-116,65232,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,96110,2026-05-04,Verified
-117,99793,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,91251,2026-05-14,Verified
-118,66364,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,99639,2025-03-30,Verified
-119,44488,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,98448,2025-12-16,Verified
-120,85179,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,81515,2026-03-24,Verified
-121,33709,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,70574,2025-07-29,Verified
-122,41671,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,87564,2025-01-16,Pending
-123,92211,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,87086,2025-03-11,Verified
-124,32049,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,87773,2025-03-18,Verified
-125,92544,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,98347,2025-12-28,Verified
-126,23068,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,93074,2025-12-20,Verified
-127,28319,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,60179,2025-12-17,Verified
-128,99203,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,67396,2025-04-22,Pending
-129,75376,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,57412,2026-05-01,Pending
-130,21411,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,40866,2025-02-11,Pending
-131,92159,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,81159,2026-05-05,Pending
-132,22672,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,35138,2025-06-01,Verified
-133,69929,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,72014,2025-05-28,Verified
-134,44938,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,44523,2025-06-23,Verified
-135,49183,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,29039,2025-10-27,Verified
-136,70187,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,94588,2025-05-04,Pending
-137,56346,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,76753,2025-05-23,Verified
-138,88565,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,96138,2026-03-19,Verified
-139,95355,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,85342,2025-02-13,Verified
-140,54131,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,77394,2025-09-06,Verified
-141,82917,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,6937,2025-04-08,Pending
-142,54094,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,89557,2025-10-20,Verified
-143,42420,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,36815,2025-05-31,Verified
-144,74860,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,82339,2025-03-01,Verified
-145,33309,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,88435,2025-12-31,Pending
-146,31662,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,95641,2025-10-22,Pending
-147,80277,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,62497,2025-10-31,Pending
-148,83142,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,92767,2025-03-17,Pending
-149,78541,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,92479,2026-02-20,Verified
-150,25143,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,90285,2025-08-30,Pending
-151,38280,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,11819,2025-11-16,Pending
-152,39576,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,57073,2025-09-25,Pending
-153,30985,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,39935,2025-05-30,Pending
-154,30231,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,95460,2025-03-12,Verified
-155,64660,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,69379,2026-03-05,Verified
-156,41503,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,60557,2025-04-30,Verified
-157,46549,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,3508,2025-04-07,Pending
-158,95121,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,62195,2025-09-06,Pending
-159,77888,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,86748,2025-02-21,Pending
-160,60073,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,47639,2025-10-08,Pending
-161,93930,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,39890,2025-10-07,Verified
-162,78160,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,90799,2025-04-15,Pending
-163,88028,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,63615,2026-02-05,Pending
-164,77375,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,81875,2025-09-26,Pending
-165,38261,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,54481,2025-04-07,Verified
-166,98354,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,70424,2025-12-20,Verified
-167,91886,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,81094,2025-10-31,Verified
-168,59001,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,46521,2025-05-15,Verified
-169,75037,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,34529,2026-04-04,Verified
-170,69144,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,70066,2026-04-19,Pending
-171,50443,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,68557,2025-10-21,Verified
-172,82946,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,87242,2025-08-24,Verified
-173,58063,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,74868,2025-05-20,Verified
-174,73758,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,31402,2025-11-25,Verified
-175,62132,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,45672,2025-03-03,Pending
-176,28546,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,12292,2025-05-30,Verified
-177,84098,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,50638,2025-05-30,Pending
-178,99156,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,41803,2026-01-10,Verified
-179,67418,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,63464,2026-03-25,Verified
-180,40541,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,72939,2025-06-24,Verified
-181,18882,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,64751,2025-12-16,Verified
-182,91509,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,6402,2025-12-11,Verified
-183,59538,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,22308,2026-03-26,Verified
-184,37928,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,60814,2025-09-22,Pending
-185,20941,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,33679,2025-03-28,Verified
-186,23945,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,28946,2026-02-03,Verified
-187,85893,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,71704,2026-03-27,Verified
-188,82061,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,98277,2026-01-16,Verified
-189,99005,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,6873,2026-01-17,Verified
-190,50218,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,43859,2025-04-01,Verified
-191,15383,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,14524,2026-02-25,Pending
-192,74282,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,12922,2025-07-31,Pending
-193,46527,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,46673,2025-09-19,Verified
-194,62493,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,23542,2025-12-02,Pending
-195,15174,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,85958,2025-01-18,Verified
-196,39225,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,97152,2025-11-01,Pending
-197,95138,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,36017,2025-02-25,Verified
-198,17342,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,64926,2025-06-06,Pending
-199,35405,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,64984,2026-03-17,Verified
-200,73367,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,40410,2025-09-11,Pending
-201,73517,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,1791,2025-07-10,Verified
-202,30854,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,82602,2025-10-07,Verified
-203,96381,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,51271,2025-05-03,Verified
-204,74833,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,42849,2025-08-22,Verified
-205,55853,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,12378,2025-04-09,Verified
-206,29573,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,85604,2026-05-10,Verified
-207,62552,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,41812,2025-01-27,Pending
-208,41714,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,7443,2025-03-23,Verified
-209,36452,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,47160,2026-02-21,Pending
-210,28949,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,87454,2025-04-04,Pending
-211,64452,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,41518,2025-12-25,Pending
-212,88425,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,67577,2025-06-01,Pending
-213,83523,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,9352,2026-04-14,Verified
-214,65963,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,46646,2025-11-10,Pending
-215,43456,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,97443,2025-10-23,Pending
-216,30443,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,47620,2025-06-09,Pending
-217,55855,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,3152,2025-12-24,Pending
-218,66295,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,25816,2025-05-04,Pending
-219,75812,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,97479,2025-05-10,Pending
-220,99844,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,50308,2026-01-19,Verified
-221,28024,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,18474,2025-03-28,Pending
-222,78431,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,87477,2025-01-05,Verified
-223,76597,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,47011,2025-08-16,Verified
-224,63728,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,63566,2025-10-12,Verified
-225,91463,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,71974,2025-06-29,Verified
-226,33295,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,16342,2025-05-14,Verified
-227,72688,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,47387,2025-06-29,Pending
-228,77821,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,79891,2025-07-01,Verified
-229,73077,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,44918,2026-01-28,Pending
-230,82494,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,34601,2025-07-20,Verified
-231,66177,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,75178,2025-12-18,Pending
-232,15766,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,24934,2025-02-23,Verified
-233,11155,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,29622,2025-12-03,Verified
-234,74023,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,8662,2026-03-01,Verified
-235,97493,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,57219,2025-08-31,Pending
-236,87791,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,41224,2025-07-16,Verified
-237,70570,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,89152,2025-06-05,Verified
-238,55743,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,80198,2026-02-15,Pending
-239,24906,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,28878,2025-01-08,Verified
-240,79791,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,37875,2025-06-15,Pending
-241,18240,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,72462,2025-03-15,Verified
-242,88944,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,54970,2025-04-16,Verified
-243,77521,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,20070,2025-07-10,Verified
-244,51325,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,58025,2025-07-06,Pending
-245,25947,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,10719,2025-03-19,Pending
-246,12668,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,93252,2025-07-26,Verified
-247,65661,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,9654,2025-04-26,Pending
-248,41765,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,35625,2025-08-25,Pending
-249,32859,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,7326,2026-02-25,Pending
-250,22100,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,40114,2025-03-22,Pending
-251,57575,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,99747,2025-05-02,Pending
-252,16804,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,17261,2025-10-19,Verified
-253,36291,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,39370,2025-10-04,Pending
-254,81121,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,68612,2026-03-24,Verified
-255,11327,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,69091,2025-11-15,Pending
-256,75036,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,61007,2026-03-09,Verified
-257,67029,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,67566,2025-10-15,Pending
-258,75398,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,83119,2025-07-18,Pending
-259,42100,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,61559,2026-02-18,Pending
-260,31423,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,62307,2025-06-26,Pending
-261,28069,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,67814,2025-10-29,Verified
-262,34738,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,37741,2025-01-30,Verified
-263,88186,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,40385,2026-04-10,Pending
-264,50071,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,19652,2025-12-02,Pending
-265,14015,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,92344,2025-04-09,Pending
-266,19997,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,5659,2025-06-17,Verified
-267,57604,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,75682,2025-11-29,Pending
-268,79696,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,63770,2025-07-02,Pending
-269,42972,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,99535,2026-05-08,Verified
-270,17473,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,91274,2025-11-17,Pending
-271,16104,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,88986,2025-05-17,Pending
-272,85671,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,31460,2025-05-29,Verified
-273,23011,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,66618,2025-02-14,Pending
-274,77466,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,19663,2025-07-30,Verified
-275,64275,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,88395,2025-05-27,Verified
-276,48646,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,11503,2025-02-28,Verified
-277,28868,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,76705,2025-02-28,Pending
-278,70066,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,14979,2026-04-04,Verified
-279,85405,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,11693,2025-06-22,Pending
-280,55928,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,48532,2025-11-17,Verified
-281,47167,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,50156,2026-03-02,Verified
-282,45248,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,39644,2025-01-07,Pending
-283,40519,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,62050,2025-05-28,Pending
-284,29811,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,77474,2026-02-21,Pending
-285,88871,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,50543,2025-02-22,Verified
-286,11834,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,35903,2025-01-21,Pending
-287,91398,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,74124,2026-03-11,Verified
-288,45813,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,94183,2026-03-30,Pending
-289,92233,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,64206,2026-04-15,Pending
-290,32416,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,37055,2025-02-15,Verified
-291,95879,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,93157,2025-07-07,Pending
-292,71548,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,76538,2026-05-06,Pending
-293,79583,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,64164,2025-08-22,Verified
-294,21224,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,96103,2025-10-09,Pending
-295,78084,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,52488,2025-08-13,Verified
-296,82609,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,18210,2026-04-06,Pending
-297,38771,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,57301,2026-04-19,Pending
-298,84943,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,53288,2026-02-07,Pending
-299,83490,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,40457,2025-11-18,Pending
-300,67017,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,72963,2025-06-05,Verified
-301,28170,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,22496,2025-03-20,Verified
-302,60591,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,65654,2025-02-20,Verified
-303,68669,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,84496,2025-05-12,Pending
-304,33412,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,53757,2026-03-01,Pending
-305,44033,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,39074,2025-04-10,Pending
-306,12075,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,23169,2025-09-14,Pending
-307,35668,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,51505,2026-04-26,Pending
-308,45497,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,86888,2026-03-08,Pending
-309,26326,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,88611,2025-04-27,Verified
-310,30923,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,70923,2026-05-09,Verified
-311,33654,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,89704,2025-04-25,Verified
-312,91012,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,14208,2026-05-06,Pending
-313,21665,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,5529,2026-04-10,Verified
-314,44191,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,3905,2026-03-04,Verified
-315,78646,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,78375,2026-01-23,Verified
-316,93703,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,80252,2026-01-21,Pending
-317,88570,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,4803,2025-02-12,Verified
-318,40925,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,33014,2025-12-19,Pending
-319,74875,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,5940,2025-12-11,Verified
-320,15693,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,58757,2025-03-10,Pending
-321,47937,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,8969,2025-03-27,Pending
-322,97235,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,60921,2025-12-08,Verified
-323,58883,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,35846,2025-03-19,Verified
-324,61349,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,34701,2025-04-03,Pending
-325,19096,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,7671,2026-03-31,Verified
-326,89631,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,92604,2025-02-07,Verified
-327,33510,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,38375,2025-06-24,Pending
-328,36688,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,78730,2025-10-08,Verified
-329,83160,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,3661,2025-07-23,Pending
-330,83764,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,24347,2025-03-20,Pending
-331,15586,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,56486,2025-04-15,Verified
-332,16964,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,50587,2025-04-24,Verified
-333,25149,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,10579,2026-05-15,Verified
-334,24702,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,20071,2025-06-17,Pending
-335,34527,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,86007,2025-03-09,Pending
-336,28240,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,99732,2025-05-04,Pending
-337,25844,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,6004,2025-09-15,Pending
-338,99985,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,17863,2026-02-02,Pending
-339,59372,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,52499,2025-08-22,Verified
-340,64003,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,89639,2026-01-15,Verified
-341,52848,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,87203,2025-03-02,Verified
-342,80679,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,52199,2025-04-10,Pending
-343,43847,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,59119,2025-12-31,Pending
-344,95083,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,89251,2025-08-02,Pending
-345,95190,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,14153,2025-12-26,Pending
-346,53870,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,76140,2025-02-25,Verified
-347,51777,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,82534,2025-03-12,Pending
-348,63577,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,30990,2026-02-16,Verified
-349,94314,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,84787,2025-02-15,Verified
-350,24717,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,55391,2026-02-11,Pending
-351,22865,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,82190,2026-01-08,Pending
-352,47305,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,53063,2025-01-04,Verified
-353,90114,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,5254,2026-03-27,Pending
-354,32778,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,48635,2025-07-05,Verified
-355,79917,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,12383,2025-08-14,Pending
-356,84536,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,95171,2026-04-25,Pending
-357,45860,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,88876,2025-05-20,Pending
-358,71572,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,47465,2025-08-24,Pending
-359,47667,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,55363,2025-01-09,Verified
-360,64180,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,15911,2026-03-29,Pending
-361,99783,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,75987,2025-11-19,Verified
-362,11592,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,61437,2026-02-09,Pending
-363,89359,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,82298,2025-05-30,Verified
-364,33646,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,82269,2025-02-18,Verified
-365,32776,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,85418,2025-08-22,Pending
-366,53715,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,59949,2025-04-30,Verified
-367,89642,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,26903,2026-03-07,Pending
-368,67362,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,46168,2025-12-05,Verified
-369,48498,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,77489,2025-02-17,Verified
-370,18634,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,82411,2025-01-22,Pending
-371,63365,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,28278,2025-06-26,Verified
-372,17983,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,70134,2026-02-28,Pending
-373,27684,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,95910,2026-02-11,Pending
-374,82756,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,9051,2025-07-06,Verified
-375,30168,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,29041,2025-06-05,Pending
-376,30236,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,43609,2025-07-16,Pending
-377,89747,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,84788,2025-04-14,Pending
-378,75037,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,78811,2025-12-06,Verified
-379,81298,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,18004,2025-08-13,Verified
-380,11500,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,95813,2025-12-23,Pending
-381,92685,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,35010,2026-01-07,Verified
-382,48502,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,98142,2025-10-05,Verified
-383,53348,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,55404,2026-05-13,Pending
-384,53202,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,28082,2025-07-30,Verified
-385,39746,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,7034,2025-11-17,Pending
-386,89073,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,17176,2025-08-26,Verified
-387,65694,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,74058,2026-03-06,Verified
-388,91080,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,44112,2025-05-09,Verified
-389,81276,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,43102,2025-07-19,Verified
-390,11497,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,4340,2026-03-21,Verified
-391,24123,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,13738,2025-07-28,Pending
-392,34135,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,79902,2026-04-08,Pending
-393,88591,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,54404,2025-10-14,Verified
-394,40878,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,79469,2025-03-23,Pending
-395,89485,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,33029,2026-04-17,Verified
-396,20314,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,65306,2025-12-17,Verified
-397,29517,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,95231,2026-01-25,Pending
-398,75508,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,48754,2025-07-20,Verified
-399,23429,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,81950,2025-10-19,Pending
-400,30896,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,32726,2026-05-15,Verified
-401,83956,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,3713,2025-09-29,Verified
-402,96870,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,25196,2025-06-07,Pending
-403,47952,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,90423,2026-01-31,Verified
-404,92843,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,88340,2025-09-07,Pending
-405,84230,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,16819,2025-07-16,Pending
-406,61965,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,24864,2025-06-24,Pending
-407,79009,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,15378,2025-06-01,Verified
-408,97985,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,41022,2026-04-15,Pending
-409,35020,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,2520,2025-07-18,Verified
-410,97099,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,5660,2025-12-14,Pending
-411,31361,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,45294,2025-03-19,Verified
-412,81281,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,79370,2025-01-19,Verified
-413,29726,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,34299,2025-07-01,Verified
-414,64110,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,89514,2025-05-18,Verified
-415,98028,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,4466,2025-02-06,Verified
-416,96630,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,7441,2025-05-15,Verified
-417,43835,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,15539,2025-01-27,Pending
-418,21772,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,71466,2026-01-12,Pending
-419,72760,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,95906,2025-05-17,Verified
-420,71101,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,26958,2026-03-23,Verified
-421,79004,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,62515,2025-04-04,Pending
-422,58435,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,96115,2025-03-08,Verified
-423,25274,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,64387,2025-06-18,Verified
-424,63601,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,12357,2025-04-28,Pending
-425,53394,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,45286,2025-12-20,Pending
-426,24099,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,83664,2026-01-01,Pending
-427,22351,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,17021,2025-07-08,Verified
-428,75975,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,45773,2025-10-31,Verified
-429,96226,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,61302,2025-11-02,Verified
-430,63453,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,25883,2025-02-17,Verified
-431,47488,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,2255,2025-12-24,Pending
-432,53763,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,56469,2025-06-03,Verified
-433,51941,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,48180,2025-07-28,Verified
-434,13969,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,95435,2026-03-08,Pending
-435,88785,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,48819,2025-02-05,Pending
-436,24412,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,15978,2025-11-14,Verified
-437,14990,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,84330,2025-07-01,Pending
-438,89703,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,23387,2025-12-12,Pending
-439,27196,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,97785,2025-02-28,Pending
-440,98151,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,42445,2025-07-13,Verified
-441,21799,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,88739,2025-07-05,Pending
-442,63752,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,46321,2025-10-12,Pending
-443,80566,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,81672,2025-01-30,Pending
-444,43187,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,83808,2026-04-25,Pending
-445,56540,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,97793,2025-04-01,Verified
-446,22416,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,41062,2025-10-16,Verified
-447,67295,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,49966,2025-08-25,Verified
-448,22131,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,62943,2025-09-20,Verified
-449,21344,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,49390,2025-07-24,Verified
-450,26588,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,45552,2026-01-23,Pending
-451,27815,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,79728,2025-12-26,Pending
-452,36104,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,27248,2025-02-25,Verified
-453,26894,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,24411,2025-01-07,Verified
-454,62840,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,40051,2026-04-24,Pending
-455,53393,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,40547,2025-12-11,Verified
-456,18209,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,78110,2026-01-06,Verified
-457,10430,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,96122,2025-08-23,Pending
-458,80533,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,27472,2025-08-29,Pending
-459,36177,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,9100,2026-04-20,Verified
-460,90968,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,71627,2025-07-21,Pending
-461,45742,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,79178,2025-03-20,Pending
-462,79955,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,35446,2026-04-19,Pending
-463,90623,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,98054,2025-04-08,Pending
-464,84205,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,44151,2025-05-19,Verified
-465,53383,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,75637,2025-01-21,Pending
-466,31817,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,18204,2025-03-01,Verified
-467,97462,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,81484,2026-02-09,Pending
-468,60631,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,25850,2026-04-24,Pending
-469,42063,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,24184,2025-08-31,Pending
-470,99626,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,88162,2025-09-13,Verified
-471,73203,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,44247,2025-06-27,Pending
-472,19327,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,51582,2026-01-18,Pending
-473,99814,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,93290,2026-02-19,Pending
-474,25268,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,29237,2026-03-04,Pending
-475,59122,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,41480,2025-03-31,Verified
-476,66571,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,81416,2025-06-30,Verified
-477,20022,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,15363,2025-06-19,Pending
-478,54645,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,7765,2025-08-18,Pending
-479,57235,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,29597,2026-02-24,Pending
-480,36781,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,11467,2025-01-08,Pending
-481,51362,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,10582,2026-03-16,Verified
-482,92684,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,45119,2025-06-07,Pending
-483,87939,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,25911,2025-05-09,Pending
-484,10818,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,71747,2025-01-10,Pending
-485,52923,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,73337,2026-03-25,Verified
-486,65334,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,55360,2025-01-03,Pending
-487,45743,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,91960,2025-03-21,Pending
-488,79953,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,8581,2026-05-04,Verified
-489,79823,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,77048,2026-05-04,Verified
-490,87000,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,8766,2026-02-25,Pending
-491,81170,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,10889,2025-11-22,Verified
-492,39536,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,76434,2025-04-12,Pending
-493,14285,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,85655,2025-03-08,Pending
-494,93838,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,17423,2025-09-08,Verified
-495,67287,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,47764,2025-02-19,Pending
-496,60796,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,65651,2025-06-20,Pending
-497,89832,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,72547,2025-01-31,Verified
-498,98487,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,25838,2025-10-16,Verified
-499,45507,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,57330,2025-08-12,Verified
-500,40641,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,90175,2025-04-19,Pending
-501,84813,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,5742,2025-01-25,Pending
-502,95759,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,83865,2025-09-26,Verified
-503,72376,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,24325,2025-07-18,Pending
-504,64074,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,59471,2025-08-29,Pending
-505,44916,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,90535,2025-10-24,Verified
-506,61139,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,98470,2025-03-23,Verified
-507,71122,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,38977,2025-11-29,Verified
-508,83383,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,40914,2026-03-24,Verified
-509,77044,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,97819,2025-08-29,Verified
-510,12438,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,714,2025-03-25,Verified
-511,35514,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,37220,2025-03-18,Verified
-512,94375,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,70021,2025-11-20,Pending
-513,29827,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,76813,2025-10-08,Verified
-514,64864,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,26646,2025-04-13,Verified
-515,77136,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,46636,2025-01-08,Pending
-516,60158,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,94773,2025-02-16,Verified
-517,57879,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,61848,2025-06-06,Verified
-518,82522,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,62753,2025-05-24,Verified
-519,56838,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,3593,2025-09-11,Pending
-520,43651,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,55878,2026-05-11,Pending
-521,73984,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,45907,2025-02-10,Verified
-522,10623,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,38594,2025-08-06,Pending
-523,81705,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,88293,2025-03-25,Verified
-524,89215,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,15697,2026-02-21,Verified
-525,63270,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,52956,2025-10-22,Verified
-526,20402,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,41542,2025-12-08,Verified
-527,69294,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,12868,2025-11-06,Pending
-528,76326,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,67667,2026-02-07,Verified
-529,55683,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,11594,2025-02-24,Verified
-530,11587,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,99497,2026-01-30,Pending
-531,37371,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,35850,2025-03-02,Verified
-532,90119,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,66630,2025-09-08,Pending
-533,34034,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,4922,2026-03-18,Verified
-534,19838,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,86280,2025-03-15,Pending
-535,39029,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,11577,2025-09-21,Pending
-536,86147,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,14838,2026-02-08,Verified
-537,72176,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,40320,2025-12-05,Verified
-538,45237,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,75688,2026-02-14,Verified
-539,38304,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,58020,2025-01-05,Verified
-540,57114,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,48668,2025-11-01,Pending
-541,72379,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,95768,2026-01-03,Pending
-542,63341,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,40718,2026-02-17,Pending
-543,43244,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,77175,2026-01-11,Pending
-544,13738,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,88844,2025-11-03,Pending
-545,75939,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,6923,2025-12-08,Pending
-546,19823,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,20284,2025-11-09,Pending
-547,29696,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,11627,2025-10-05,Verified
-548,33616,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,16977,2025-04-22,Verified
-549,72074,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,44302,2025-01-01,Verified
-550,75626,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,42709,2025-07-19,Verified
-551,83094,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,21131,2025-10-09,Verified
-552,45667,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,21083,2025-12-08,Pending
-553,13945,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,78332,2025-09-20,Verified
-554,61491,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,5324,2026-02-28,Verified
-555,94514,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,24617,2025-05-14,Verified
-556,83631,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,96054,2026-04-17,Pending
-557,24171,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,79174,2025-06-03,Pending
-558,70438,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,92983,2025-10-28,Pending
-559,17913,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,45494,2025-12-21,Pending
-560,51673,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,32697,2026-03-11,Pending
-561,52687,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,11126,2026-05-07,Verified
-562,49291,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,42521,2025-12-22,Verified
-563,45739,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,42467,2026-01-18,Verified
-564,85592,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,90067,2025-01-25,Pending
-565,64924,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,57182,2025-08-18,Pending
-566,33988,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,44310,2025-10-28,Pending
-567,46363,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,12359,2026-03-10,Pending
-568,12993,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,14471,2025-02-18,Verified
-569,89632,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,74238,2025-01-23,Verified
-570,97804,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,67867,2025-01-14,Verified
-571,86414,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,83992,2025-02-06,Pending
-572,96752,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,17050,2026-03-02,Verified
-573,34953,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,89278,2025-04-18,Verified
-574,47489,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,69513,2025-07-14,Verified
-575,57496,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,98309,2025-01-03,Pending
-576,39437,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,43566,2026-02-19,Verified
-577,19105,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,69538,2025-01-07,Pending
-578,54318,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,27089,2026-02-21,Verified
-579,89636,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,90731,2025-06-23,Verified
-580,11423,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,65441,2025-03-20,Verified
-581,50653,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,36390,2025-08-23,Pending
-582,95641,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,52650,2025-09-10,Pending
-583,67015,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,40514,2026-04-15,Verified
-584,12028,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,22216,2025-12-07,Verified
-585,15119,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,79412,2025-08-14,Pending
-586,38186,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,45463,2025-07-18,Pending
-587,37808,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,92618,2026-01-03,Verified
-588,70906,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,49858,2025-05-08,Pending
-589,74384,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,76261,2026-03-20,Verified
-590,84744,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,61629,2025-09-09,Verified
-591,46486,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,76545,2025-02-10,Verified
-592,69129,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,37873,2025-03-11,Pending
-593,87408,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,5122,2026-02-03,Pending
-594,79153,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,65622,2025-06-01,Pending
-595,32806,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,32750,2025-08-18,Verified
-596,87174,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,57929,2025-08-19,Pending
-597,64415,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,3327,2026-04-16,Verified
-598,62286,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,86684,2025-09-05,Verified
-599,35861,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,28819,2025-06-15,Verified
-600,44866,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,8406,2025-10-21,Verified
-601,93927,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,18814,2025-11-04,Verified
-602,33474,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,31223,2025-07-29,Verified
-603,64303,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,11877,2025-04-04,Pending
-604,43413,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,94646,2025-10-12,Verified
-605,12971,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,61067,2026-04-11,Pending
-606,25027,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,92887,2026-03-27,Pending
-607,65986,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,55559,2025-10-01,Pending
-608,96534,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,75297,2025-02-28,Pending
-609,62645,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,51856,2025-11-04,Verified
-610,60595,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,52305,2025-08-01,Verified
-611,92311,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,87549,2025-08-06,Pending
-612,24074,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,60882,2025-04-24,Verified
-613,44689,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,67747,2025-04-20,Pending
-614,59969,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,4782,2025-09-11,Pending
-615,44208,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,27168,2025-08-19,Verified
-616,77441,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,90226,2025-03-11,Verified
-617,24666,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,40736,2025-01-24,Verified
-618,41712,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,15548,2025-09-09,Verified
-619,97644,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,77266,2025-07-29,Pending
-620,57240,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,75726,2025-03-07,Pending
-621,84955,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,51265,2025-08-11,Pending
-622,95976,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,20792,2025-06-24,Verified
-623,63068,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,37741,2026-03-21,Verified
-624,84043,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,34971,2025-07-29,Verified
-625,93585,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,88083,2026-01-07,Pending
-626,88796,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,16327,2025-06-03,Pending
-627,61199,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,92941,2025-05-27,Pending
-628,65940,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,74284,2025-08-22,Verified
-629,40501,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,41053,2025-05-29,Verified
-630,50508,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,4426,2026-01-28,Pending
-631,78555,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,69750,2025-05-01,Verified
-632,99256,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,52634,2025-06-06,Verified
-633,53872,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,51725,2025-05-28,Verified
-634,94223,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,98288,2025-03-06,Pending
-635,15928,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,96358,2025-12-02,Verified
-636,73788,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,24139,2025-03-07,Verified
-637,71609,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,76725,2026-02-22,Verified
-638,32525,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,20924,2025-09-27,Verified
-639,86371,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,3871,2025-04-28,Pending
-640,43545,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,12210,2025-02-05,Pending
-641,14338,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,40167,2026-01-15,Pending
-642,91355,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,2630,2025-07-06,Pending
-643,97527,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,32889,2025-10-05,Verified
-644,43659,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,20243,2025-09-05,Verified
-645,96775,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,46980,2025-01-31,Pending
-646,85229,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,90139,2025-02-04,Pending
-647,60663,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,3893,2025-10-24,Pending
-648,36128,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,46802,2025-07-21,Verified
-649,65708,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,38622,2026-02-01,Verified
-650,82020,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,24456,2025-03-27,Pending
-651,37617,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,90818,2026-04-15,Pending
-652,89378,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,18179,2026-02-23,Verified
-653,37447,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,74341,2026-02-25,Verified
-654,80866,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,85322,2025-06-30,Pending
-655,30519,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,83682,2025-06-28,Pending
-656,12203,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,35421,2025-01-04,Pending
-657,96009,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,70704,2025-10-29,Verified
-658,10058,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,49777,2025-10-29,Verified
-659,99405,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,89993,2025-11-23,Pending
-660,66080,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,61623,2025-01-05,Pending
-661,55376,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,21072,2026-03-19,Verified
-662,66426,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,45279,2025-05-06,Verified
-663,72489,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,8337,2025-01-20,Pending
-664,45716,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,60449,2025-06-08,Pending
-665,95692,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,12091,2026-03-12,Verified
-666,81810,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,85744,2025-05-01,Verified
-667,99860,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,83288,2026-04-09,Verified
-668,82751,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,91001,2025-02-05,Verified
-669,67446,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,7705,2025-12-21,Verified
-670,87453,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,55910,2026-04-29,Verified
-671,98906,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,47934,2025-07-23,Pending
-672,93723,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,27736,2025-10-15,Verified
-673,43162,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,55816,2025-11-17,Verified
-674,72116,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,63747,2025-05-07,Verified
-675,48621,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,48012,2025-03-20,Pending
-676,44518,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,34178,2026-01-26,Verified
-677,94021,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,93690,2025-11-20,Pending
-678,41272,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,37219,2025-06-24,Verified
-679,63786,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,4505,2025-06-28,Pending
-680,34743,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,7900,2025-08-07,Verified
-681,41336,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,75968,2025-09-02,Pending
-682,86755,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,8870,2025-12-26,Verified
-683,81069,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,36029,2026-03-14,Pending
-684,20403,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,10134,2025-07-04,Verified
-685,19638,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,87254,2025-06-23,Pending
-686,29893,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,39215,2025-07-09,Pending
-687,48943,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,9977,2025-10-04,Verified
-688,81876,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,85477,2026-03-22,Verified
-689,59587,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,12027,2026-02-25,Pending
-690,29258,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,94115,2025-09-29,Verified
-691,47075,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,78560,2025-11-03,Pending
-692,15234,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,58923,2025-12-14,Verified
-693,99184,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,72727,2025-10-27,Pending
-694,55410,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,7520,2026-04-25,Verified
-695,13234,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,85573,2025-07-16,Verified
-696,12017,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,38188,2026-03-16,Verified
-697,57995,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,60061,2025-11-01,Pending
-698,22574,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,84119,2025-09-04,Pending
-699,41631,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,13951,2025-05-01,Pending
-700,71541,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,45007,2025-07-17,Verified
-701,71438,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,60174,2025-07-12,Pending
-702,52907,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,78765,2025-02-26,Pending
-703,46592,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,97884,2025-04-03,Pending
-704,78001,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,1471,2025-12-24,Pending
-705,78449,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,47820,2026-01-26,Pending
-706,18695,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,52086,2025-10-02,Verified
-707,43266,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,85178,2025-02-16,Pending
-708,70859,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,37300,2025-09-29,Verified
-709,25873,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,67572,2025-10-24,Verified
-710,65273,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,14477,2025-07-19,Verified
-711,67852,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,76582,2025-10-18,Pending
-712,45888,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,20297,2025-10-07,Pending
-713,48671,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,49735,2026-05-08,Pending
-714,98904,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,83263,2026-02-19,Pending
-715,24492,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,58728,2026-02-07,Pending
-716,41517,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,83247,2025-02-28,Pending
-717,14654,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,29141,2025-10-13,Verified
-718,95950,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,99016,2025-12-06,Pending
-719,58350,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,3307,2026-04-03,Verified
-720,17431,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,76280,2025-10-22,Verified
-721,12589,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,42614,2026-01-22,Verified
-722,12605,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,79309,2025-05-22,Pending
-723,40690,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,55437,2025-07-17,Pending
-724,17495,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,53126,2026-04-13,Pending
-725,33295,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,85031,2025-03-14,Pending
-726,60556,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,81712,2025-05-18,Verified
-727,91908,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,26122,2025-03-27,Pending
-728,96910,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,54645,2026-03-21,Pending
-729,28811,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,96224,2025-07-26,Verified
-730,55009,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,14552,2025-12-31,Pending
-731,41659,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,15052,2026-04-15,Verified
-732,14160,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,3125,2026-01-06,Verified
-733,65187,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,79033,2025-03-19,Pending
-734,68901,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,54078,2025-04-16,Pending
-735,59022,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,79634,2025-01-22,Pending
-736,88090,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,44639,2025-01-16,Pending
-737,94521,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,87640,2025-05-09,Pending
-738,87164,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,4690,2025-07-25,Verified
-739,44066,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,47089,2025-04-12,Verified
-740,96740,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,45667,2025-07-01,Verified
-741,31999,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,38776,2025-06-20,Pending
-742,12617,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,26546,2025-12-21,Pending
-743,20927,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,46928,2026-03-24,Pending
-744,86784,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,50014,2026-04-13,Pending
-745,97450,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,58191,2026-02-25,Verified
-746,14183,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,68367,2026-03-20,Verified
-747,42286,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,97475,2025-12-01,Pending
-748,70583,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,15689,2025-02-09,Verified
-749,79410,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,99583,2026-01-26,Verified
-750,44130,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,87286,2025-11-10,Verified
-751,81243,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,37783,2025-08-01,Pending
-752,32058,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,49184,2025-05-15,Verified
-753,35693,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,30438,2025-10-18,Verified
-754,78475,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,65256,2025-03-29,Verified
-755,84769,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,32494,2026-01-21,Verified
-756,14131,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,67924,2025-05-07,Pending
-757,28743,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,26187,2025-04-24,Pending
-758,44840,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,13355,2026-02-20,Pending
-759,46270,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,48466,2025-06-08,Verified
-760,81664,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,33322,2026-04-07,Pending
-761,50303,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,65113,2025-02-17,Verified
-762,26876,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,86539,2026-03-01,Verified
-763,31529,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,48299,2025-04-11,Verified
-764,71607,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,11176,2025-12-13,Verified
-765,72912,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,82160,2025-11-18,Verified
-766,57240,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,44894,2026-04-30,Pending
-767,61155,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,46833,2025-04-21,Verified
-768,12286,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,24542,2025-11-28,Pending
-769,57146,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,5963,2025-07-09,Verified
-770,13577,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,4039,2025-08-20,Pending
-771,38682,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,20503,2025-03-04,Verified
-772,42283,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,52434,2025-08-31,Pending
-773,32312,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,54381,2026-05-10,Verified
-774,17230,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,68875,2026-04-12,Pending
-775,45838,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,50222,2025-04-21,Verified
-776,24365,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,70641,2025-01-22,Pending
-777,63456,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,48924,2026-04-22,Verified
-778,54672,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,50922,2025-08-08,Verified
-779,24362,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,37272,2026-04-26,Verified
-780,41008,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,40591,2025-01-02,Pending
-781,43140,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,30331,2025-10-03,Pending
-782,79148,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,78901,2026-03-24,Verified
-783,41924,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,14959,2025-04-11,Verified
-784,19136,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,55671,2025-01-16,Verified
-785,38983,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,56586,2026-01-09,Pending
-786,45558,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,1417,2026-03-02,Pending
-787,76494,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,8420,2025-09-24,Verified
-788,59254,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,36740,2025-08-17,Verified
-789,93097,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,78459,2025-05-04,Pending
-790,67397,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,95309,2025-04-02,Verified
-791,87549,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,47898,2026-01-31,Pending
-792,75332,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,44223,2025-03-22,Verified
-793,54821,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,87694,2025-01-16,Verified
-794,19492,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,52577,2025-04-30,Pending
-795,19376,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,63246,2026-03-23,Verified
-796,34649,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,5909,2026-05-06,Verified
-797,83794,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,56030,2025-09-26,Verified
-798,22367,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,18219,2026-02-25,Verified
-799,52513,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,24092,2026-03-29,Verified
-800,77238,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,76580,2026-03-19,Verified
-801,66900,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,56876,2025-02-12,Pending
-802,10970,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,45525,2025-09-20,Pending
-803,87311,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,43843,2026-04-01,Verified
-804,16529,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,84013,2025-06-30,Verified
-805,75428,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,53110,2025-08-29,Pending
-806,52200,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,17017,2026-04-25,Verified
-807,75739,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,34304,2025-05-19,Pending
-808,91098,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,49600,2025-08-18,Verified
-809,92279,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,54603,2025-02-04,Verified
-810,52098,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,11236,2025-12-13,Verified
-811,14152,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,96048,2025-04-18,Pending
-812,91492,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,4706,2026-01-13,Verified
-813,78743,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,59295,2025-07-04,Verified
-814,81057,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,81835,2025-08-30,Pending
-815,57535,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,54195,2026-02-28,Verified
-816,92084,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,62274,2025-01-19,Verified
-817,37490,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,88181,2025-10-03,Verified
-818,49969,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,12347,2025-06-07,Verified
-819,87414,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,32611,2025-01-26,Verified
-820,47919,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,17538,2025-08-19,Verified
-821,60236,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,24327,2026-03-04,Pending
-822,41919,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,17372,2025-12-19,Pending
-823,28054,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,33185,2025-05-09,Verified
-824,48963,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,6825,2026-02-21,Pending
-825,41539,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,64162,2025-07-31,Verified
-826,87970,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,94681,2025-03-20,Pending
-827,56977,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,79910,2026-03-08,Verified
-828,10784,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,10651,2025-06-30,Verified
-829,10754,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,30304,2025-12-08,Verified
-830,44249,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,55499,2026-01-05,Verified
-831,39592,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,52787,2025-07-17,Pending
-832,87589,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,9648,2026-02-17,Verified
-833,68316,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,82180,2025-07-16,Pending
-834,60474,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,3463,2025-11-29,Pending
-835,75973,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,50629,2026-01-23,Pending
-836,88214,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,83513,2025-09-15,Verified
-837,20837,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,44713,2025-07-12,Verified
-838,84932,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,15822,2025-10-24,Verified
-839,84437,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,48055,2025-01-29,Verified
-840,44870,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,14417,2026-03-23,Verified
-841,61564,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,2180,2025-11-14,Verified
-842,85666,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,19149,2025-01-29,Verified
-843,58814,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,60720,2026-02-15,Verified
-844,85373,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,99326,2025-09-02,Pending
-845,51658,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,36066,2025-11-02,Pending
-846,96523,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,28257,2025-09-06,Pending
-847,31692,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,52252,2026-05-12,Pending
-848,82781,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,76292,2025-04-13,Verified
-849,95085,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,82777,2026-03-31,Verified
-850,10332,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,68900,2025-08-21,Verified
-851,81698,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,2513,2025-07-18,Pending
-852,18185,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,87490,2025-11-11,Verified
-853,33686,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,3347,2026-05-05,Pending
-854,26267,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,89303,2025-07-31,Verified
-855,99801,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,69415,2025-10-06,Pending
-856,77746,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,15589,2025-10-23,Verified
-857,66299,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,24718,2026-04-19,Pending
-858,77156,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,66790,2026-03-02,Verified
-859,38988,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,29865,2025-08-14,Verified
-860,40690,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,6466,2025-12-27,Pending
-861,11522,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,93827,2025-12-26,Pending
-862,40453,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,45893,2025-04-16,Verified
-863,79460,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,53803,2025-08-30,Verified
-864,83859,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,71391,2025-05-05,Verified
-865,52022,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,37939,2026-01-19,Verified
-866,97655,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,17208,2025-09-20,Pending
-867,76131,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,97608,2025-10-15,Verified
-868,82105,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,83140,2026-03-14,Pending
-869,78933,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,2835,2025-06-01,Verified
-870,48637,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,43255,2025-08-01,Pending
-871,26845,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,99320,2025-11-15,Verified
-872,91571,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,84487,2025-08-01,Verified
-873,98077,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,30498,2025-01-11,Pending
-874,53875,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,29983,2025-02-27,Pending
-875,18319,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,45471,2026-01-19,Pending
-876,88181,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,11146,2025-06-08,Pending
-877,81922,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,31975,2025-08-07,Verified
-878,61989,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,50125,2025-08-27,Pending
-879,27511,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,47427,2025-02-24,Verified
-880,23002,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,10656,2026-02-22,Pending
-881,27200,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,34443,2026-04-04,Pending
-882,63262,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,98987,2025-12-10,Verified
-883,48613,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,20713,2026-01-24,Pending
-884,16815,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,98319,2026-04-04,Verified
-885,99205,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,55771,2025-10-22,Verified
-886,14581,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,45211,2025-05-10,Pending
-887,48115,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,98189,2025-11-12,Pending
-888,57065,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,1721,2026-03-31,Pending
-889,99943,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,17825,2025-11-11,Pending
-890,32566,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,48192,2025-06-30,Pending
-891,66133,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,40263,2025-08-27,Verified
-892,73678,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,89979,2026-01-30,Pending
-893,31954,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,91000,2025-08-09,Verified
-894,99193,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,63007,2025-03-30,Verified
-895,78295,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,55160,2025-11-09,Verified
-896,79044,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,99178,2025-11-19,Verified
-897,10678,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,61079,2025-07-25,Pending
-898,16854,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,34804,2026-04-03,Verified
-899,11995,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,19506,2026-03-28,Pending
-900,16781,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,24169,2026-03-04,Verified
-901,68828,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,17473,2025-04-07,Verified
-902,86601,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,41784,2026-02-18,Verified
-903,52925,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,55719,2025-03-05,Verified
-904,35418,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,11083,2025-05-25,Verified
-905,16221,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,71522,2026-03-03,Verified
-906,57503,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,9701,2025-05-01,Verified
-907,34696,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,72456,2025-01-29,Pending
-908,67499,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,52086,2025-03-29,Pending
-909,41449,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,92417,2026-02-20,Pending
-910,48580,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,24291,2025-01-23,Pending
-911,58855,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,24255,2026-03-15,Verified
-912,45759,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,15886,2026-01-07,Pending
-913,33480,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,3043,2026-02-03,Pending
-914,80480,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,8681,2026-02-22,Verified
-915,70407,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,21300,2025-01-21,Pending
-916,13051,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,96312,2025-01-26,Verified
-917,92870,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,63656,2025-10-06,Verified
-918,19704,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,39861,2025-07-01,Verified
-919,83641,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,98565,2026-01-24,Pending
-920,84980,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,3867,2025-11-03,Verified
-921,19017,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,94257,2025-02-10,Pending
-922,32051,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,1034,2025-09-05,Verified
-923,20810,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,19395,2025-02-16,Verified
-924,88241,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,87399,2026-01-25,Verified
-925,25351,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,32229,2026-02-16,Verified
-926,41182,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,95216,2025-06-28,Verified
-927,50570,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,52735,2025-05-10,Verified
-928,86319,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,39071,2026-03-25,Verified
-929,67607,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,5549,2026-02-14,Verified
-930,52391,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,41625,2026-01-17,Pending
-931,21261,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,23425,2025-07-04,Verified
-932,56098,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,29356,2025-10-17,Verified
-933,76979,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,52272,2025-05-07,Verified
-934,38411,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,23747,2026-01-21,Verified
-935,28207,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,31066,2025-02-26,Pending
-936,49963,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,81262,2025-06-25,Pending
-937,51837,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,2237,2026-01-04,Pending
-938,19723,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,95964,2025-02-24,Pending
-939,21402,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,28378,2025-06-14,Verified
-940,11113,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,19229,2025-11-05,Pending
-941,66692,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,46920,2025-06-10,Verified
-942,45980,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,23443,2025-09-28,Pending
-943,87773,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,79071,2026-01-18,Verified
-944,28610,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,63132,2026-04-12,Pending
-945,58443,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,84239,2025-01-17,Pending
-946,20417,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,32187,2025-06-10,Verified
-947,36819,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,69747,2025-08-25,Pending
-948,85008,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,23995,2025-07-30,Pending
-949,87943,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,99256,2025-11-13,Verified
-950,27388,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,61293,2025-06-11,Pending
-951,42849,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,40586,2026-01-13,Pending
-952,10503,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,32085,2025-12-21,Verified
-953,67347,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,3394,2025-08-05,Pending
-954,77031,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,12516,2025-11-14,Verified
-955,56172,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,7944,2025-06-25,Verified
-956,22891,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,17645,2025-11-06,Pending
-957,64888,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,63644,2025-12-17,Pending
-958,96975,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,94512,2025-07-06,Verified
-959,58103,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,10824,2026-02-19,Pending
-960,14760,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,35146,2025-06-23,Pending
-961,19457,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,29374,2025-02-02,Verified
-962,37435,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,45281,2025-05-19,Pending
-963,32468,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,7399,2025-06-21,Verified
-964,92761,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,70255,2026-01-07,Verified
-965,29460,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,43659,2025-07-12,Pending
-966,99020,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,18604,2025-08-29,Verified
-967,53881,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,59119,2025-06-06,Verified
-968,71303,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,47953,2025-06-23,Verified
-969,65432,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,8307,2025-05-18,Verified
-970,80480,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,41913,2025-10-17,Verified
-971,49846,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,59416,2025-02-17,Pending
-972,78291,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,63970,2025-08-28,Pending
-973,55797,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,60037,2025-05-20,Pending
-974,22207,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,40098,2025-12-26,Pending
-975,15531,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,24439,2026-05-12,Verified
-976,31687,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,96700,2025-10-30,Pending
-977,52867,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,30082,2025-11-17,Verified
-978,39587,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,29674,2025-05-27,Verified
-979,83343,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,1842,2025-10-15,Verified
-980,80352,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,90397,2025-11-23,Verified
-981,42222,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,14557,2026-03-29,Pending
-982,61739,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,87600,2026-05-16,Pending
-983,78677,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,84824,2025-05-13,Pending
-984,79826,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,87869,2025-04-21,Pending
-985,84682,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,50532,2026-01-28,Verified
-986,72814,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,71942,2026-01-24,Verified
-987,93103,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,78237,2025-09-10,Pending
-988,45236,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,53726,2025-07-01,Pending
-989,45082,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,15038,2025-10-04,Verified
-990,75446,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,49417,2025-11-25,Pending
-991,98659,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,2770,2025-06-05,Verified
-992,66908,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,96898,2026-01-05,Pending
-993,16376,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,10924,2025-03-09,Verified
-994,60636,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,52490,2025-07-10,Pending
-995,73142,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,73243,2025-04-28,Verified
-996,92914,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,77900,2025-12-15,Verified
-997,18917,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,43866,2026-04-30,Pending
-998,57394,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,48100,2025-12-04,Pending
-999,13177,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,95439,2025-05-25,Pending
-1000,53749,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,39770,2025-09-06,Verified
+1,23340,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,87662,2025-06-11,Pending
+2,12812,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,6043,2026-04-28,Pending
+3,96782,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,97590,2025-11-07,Pending
+4,76902,367334,HDFC Mutual Fund Large Cap Fund 25,Lumpsum,76617,2026-04-09,Verified
+5,96717,991366,ICICI Prudential Debt Fund 10,SIP,7109,2025-01-05,Verified
+6,21168,880836,DSP Mutual Fund Small Cap Fund 32,SIP,13147,2026-04-24,Verified
+7,31368,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,11844,2025-07-18,Verified
+8,62798,621203,HDFC Mutual Fund Debt Fund 12,Redemption,70884,2025-07-10,Verified
+9,94113,367334,HDFC Mutual Fund Large Cap Fund 25,Lumpsum,1849,2025-02-07,Pending
+10,46240,668248,Franklin Templeton Index Fund 24,Redemption,79268,2025-04-15,Verified
+11,38929,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,96857,2026-01-27,Pending
+12,21701,944560,Nippon India Small Cap Fund 28,SIP,74809,2026-05-14,Pending
+13,47385,721881,Aditya Birla Sun Life Small Cap Fund 5,Lumpsum,1416,2025-11-10,Pending
+14,62939,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,99520,2025-11-24,Verified
+15,11642,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,27267,2025-10-02,Pending
+16,58269,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,6061,2025-06-16,Pending
+17,78254,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,69954,2025-05-12,Verified
+18,62300,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,3783,2025-12-11,Verified
+19,15210,592424,UTI Mutual Fund Index Fund 14,Redemption,34236,2026-01-28,Verified
+20,89733,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,99340,2025-05-16,Pending
+21,95814,668248,Franklin Templeton Index Fund 24,Lumpsum,53409,2026-03-01,Pending
+22,84388,544516,SBI Mutual Fund Large Cap Fund 6,SIP,72077,2025-03-19,Pending
+23,89110,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,69613,2025-05-06,Verified
+24,66829,668248,Franklin Templeton Index Fund 24,Redemption,69659,2025-03-31,Verified
+25,31075,428488,Canara Robeco Mid Cap Fund 17,Redemption,31468,2025-01-14,Verified
+26,92931,367334,HDFC Mutual Fund Large Cap Fund 25,Redemption,33961,2026-05-02,Pending
+27,79659,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,86852,2025-01-08,Pending
+28,39834,326036,Canara Robeco Large Cap Fund 16,Redemption,30733,2025-12-19,Pending
+29,93436,592424,UTI Mutual Fund Index Fund 14,Lumpsum,97057,2025-12-01,Pending
+30,50467,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,32632,2025-05-09,Pending
+31,62836,843204,Mirae Asset Large Cap Fund 2,SIP,97449,2025-05-11,Verified
+32,62825,260805,SBI Mutual Fund Multi Cap Fund 33,Redemption,53316,2025-05-02,Pending
+33,75708,544516,SBI Mutual Fund Large Cap Fund 6,SIP,58839,2025-06-21,Pending
+34,43647,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,45200,2025-07-15,Pending
+35,18253,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,10873,2025-11-19,Pending
+36,84926,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,82485,2025-05-26,Pending
+37,10543,792521,DSP Mutual Fund ELSS Fund 1,SIP,67280,2025-03-26,Pending
+38,58500,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Redemption,37409,2025-04-30,Verified
+39,61285,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,98969,2025-04-07,Pending
+40,42612,527330,Nippon India Small Cap Fund 15,Lumpsum,16232,2026-02-14,Pending
+41,84825,367334,HDFC Mutual Fund Large Cap Fund 25,SIP,34714,2025-09-11,Verified
+42,15784,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,9203,2026-01-14,Pending
+43,25554,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,99311,2026-01-04,Verified
+44,11025,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,31933,2025-02-13,Pending
+45,87589,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,57803,2025-10-20,Pending
+46,77510,792521,DSP Mutual Fund ELSS Fund 1,Redemption,20435,2025-04-15,Verified
+47,67957,592424,UTI Mutual Fund Index Fund 14,Lumpsum,27764,2025-01-20,Verified
+48,17990,944560,Nippon India Small Cap Fund 28,Lumpsum,28748,2026-04-26,Pending
+49,12349,346758,Nippon India Debt Fund 8,SIP,99005,2025-05-14,Verified
+50,67785,687271,Tata Mutual Fund Flexi Cap Fund 11,Lumpsum,89170,2025-08-02,Pending
+51,28448,346758,Nippon India Debt Fund 8,Lumpsum,95562,2025-02-13,Pending
+52,79651,991366,ICICI Prudential Debt Fund 10,Redemption,14730,2026-04-18,Verified
+53,91543,346758,Nippon India Debt Fund 8,SIP,33597,2025-11-23,Pending
+54,85296,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,51524,2025-04-26,Pending
+55,56436,664735,Franklin Templeton Hybrid Fund 19,SIP,88947,2025-09-13,Verified
+56,49601,708630,Kotak Mutual Fund Debt Fund 22,Lumpsum,1119,2026-01-29,Verified
+57,28332,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,16531,2026-04-14,Verified
+58,16802,944560,Nippon India Small Cap Fund 28,SIP,30979,2026-02-03,Pending
+59,10342,944560,Nippon India Small Cap Fund 28,Lumpsum,41500,2025-01-01,Pending
+60,46827,944560,Nippon India Small Cap Fund 28,SIP,71064,2026-03-25,Pending
+61,85888,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,73637,2025-02-11,Verified
+62,20662,592424,UTI Mutual Fund Index Fund 14,SIP,21573,2026-02-10,Verified
+63,23451,708630,Kotak Mutual Fund Debt Fund 22,Redemption,81986,2025-05-12,Verified
+64,66224,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,90256,2026-04-14,Verified
+65,87902,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,28523,2025-10-14,Verified
+66,75354,407874,UTI Mutual Fund Flexi Cap Fund 18,Redemption,76013,2025-11-10,Pending
+67,83292,721881,Aditya Birla Sun Life Small Cap Fund 5,SIP,33432,2025-01-05,Pending
+68,87220,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,98181,2025-03-13,Verified
+69,88935,428488,Canara Robeco Mid Cap Fund 17,Redemption,93633,2025-06-11,Pending
+70,18937,857086,Canara Robeco ELSS Fund 29,Redemption,39981,2025-06-04,Pending
+71,40255,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,27097,2025-06-22,Pending
+72,26192,843204,Mirae Asset Large Cap Fund 2,Redemption,1344,2025-08-17,Pending
+73,65563,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Redemption,78693,2025-11-05,Verified
+74,97996,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Redemption,65161,2025-08-10,Pending
+75,32064,234499,Kotak Mutual Fund Multi Cap Fund 7,Redemption,91694,2025-04-09,Verified
+76,26524,975687,Nippon India Index Fund 21,Redemption,24338,2025-03-20,Verified
+77,16824,664735,Franklin Templeton Hybrid Fund 19,Lumpsum,91865,2026-03-27,Verified
+78,87959,857086,Canara Robeco ELSS Fund 29,Lumpsum,14880,2026-03-30,Verified
+79,45245,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,89582,2025-12-21,Pending
+80,11506,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,76392,2025-08-17,Verified
+81,73072,592424,UTI Mutual Fund Index Fund 14,SIP,16532,2025-11-08,Pending
+82,20998,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,31637,2026-03-07,Pending
+83,29585,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,53798,2026-03-25,Pending
+84,97151,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,65876,2026-03-31,Pending
+85,48612,664735,Franklin Templeton Hybrid Fund 19,Redemption,30268,2025-01-08,Verified
+86,83494,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,40874,2026-02-12,Verified
+87,98188,843204,Mirae Asset Large Cap Fund 2,Lumpsum,34413,2025-08-06,Pending
+88,78126,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,78161,2025-01-02,Pending
+89,69453,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,36929,2025-02-24,Pending
+90,21917,621203,HDFC Mutual Fund Debt Fund 12,Redemption,20026,2025-03-17,Verified
+91,27651,880134,DSP Mutual Fund Hybrid Fund 27,SIP,52233,2026-01-29,Pending
+92,77522,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,29139,2026-03-13,Pending
+93,74940,428488,Canara Robeco Mid Cap Fund 17,Redemption,61788,2026-03-29,Verified
+94,96875,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,35368,2025-10-19,Verified
+95,28583,720564,Franklin Templeton Sectoral Fund 20,SIP,15592,2025-04-26,Pending
+96,63879,843204,Mirae Asset Large Cap Fund 2,Redemption,95271,2026-03-23,Pending
+97,84760,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,84789,2025-10-05,Verified
+98,39588,739532,Edelweiss Mutual Fund Hybrid Fund 13,Redemption,90718,2026-03-15,Pending
+99,44356,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,22890,2026-03-16,Verified
+100,62737,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,73230,2026-04-19,Pending
+101,24820,843204,Mirae Asset Large Cap Fund 2,Redemption,37790,2025-05-19,Verified
+102,73415,326036,Canara Robeco Large Cap Fund 16,Redemption,83236,2026-02-15,Pending
+103,47099,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,5722,2025-07-02,Verified
+104,79873,843204,Mirae Asset Large Cap Fund 2,Redemption,51723,2025-12-30,Verified
+105,28640,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,19113,2025-12-08,Pending
+106,17111,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,15321,2025-01-10,Pending
+107,85243,367334,HDFC Mutual Fund Large Cap Fund 25,Redemption,72970,2025-12-07,Pending
+108,45872,621203,HDFC Mutual Fund Debt Fund 12,SIP,16365,2026-03-21,Verified
+109,30209,664735,Franklin Templeton Hybrid Fund 19,SIP,64747,2025-05-28,Verified
+110,27597,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,27821,2025-06-20,Verified
+111,80121,708630,Kotak Mutual Fund Debt Fund 22,Redemption,78497,2025-09-25,Pending
+112,92358,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,60463,2025-12-21,Verified
+113,35012,843204,Mirae Asset Large Cap Fund 2,Redemption,76820,2026-01-11,Pending
+114,34037,944560,Nippon India Small Cap Fund 28,Redemption,45324,2025-07-09,Pending
+115,82666,843204,Mirae Asset Large Cap Fund 2,SIP,28374,2026-04-01,Pending
+116,49676,234499,Kotak Mutual Fund Multi Cap Fund 7,Redemption,54239,2025-06-13,Verified
+117,92390,346758,Nippon India Debt Fund 8,Lumpsum,85417,2026-03-25,Verified
+118,94321,367334,HDFC Mutual Fund Large Cap Fund 25,SIP,47278,2026-02-05,Pending
+119,11565,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,96540,2025-09-23,Verified
+120,55346,721881,Aditya Birla Sun Life Small Cap Fund 5,Lumpsum,25474,2025-07-19,Verified
+121,55541,428488,Canara Robeco Mid Cap Fund 17,SIP,42249,2025-01-04,Verified
+122,98550,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,63099,2025-10-09,Verified
+123,31339,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,81247,2026-04-07,Pending
+124,55482,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,28141,2026-03-20,Verified
+125,36291,592424,UTI Mutual Fund Index Fund 14,Lumpsum,85954,2025-05-27,Pending
+126,33285,687271,Tata Mutual Fund Flexi Cap Fund 11,Lumpsum,23015,2025-12-08,Pending
+127,74737,234499,Kotak Mutual Fund Multi Cap Fund 7,Redemption,84424,2025-07-31,Verified
+128,54836,975687,Nippon India Index Fund 21,Lumpsum,50409,2025-12-30,Pending
+129,99824,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,42305,2025-12-11,Pending
+130,78331,668248,Franklin Templeton Index Fund 24,Redemption,4853,2026-01-29,Verified
+131,40233,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,22901,2025-05-13,Verified
+132,58163,991366,ICICI Prudential Debt Fund 10,SIP,72673,2025-11-19,Pending
+133,72279,537685,ICICI Prudential Large Cap Fund 9,SIP,43405,2025-02-01,Pending
+134,64769,428488,Canara Robeco Mid Cap Fund 17,Redemption,55070,2025-12-27,Pending
+135,70189,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,96303,2025-01-19,Verified
+136,11708,664735,Franklin Templeton Hybrid Fund 19,Redemption,83941,2025-12-17,Pending
+137,20835,260805,SBI Mutual Fund Multi Cap Fund 33,Redemption,47068,2025-06-03,Verified
+138,32435,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,9572,2025-04-11,Verified
+139,36872,346758,Nippon India Debt Fund 8,SIP,90529,2025-11-10,Verified
+140,67932,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,63293,2026-05-09,Verified
+141,99405,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,48140,2026-02-08,Verified
+142,48467,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,99167,2025-12-14,Verified
+143,48555,713340,Tata Mutual Fund Hybrid Fund 23,SIP,5915,2025-05-05,Verified
+144,72735,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,656,2026-04-10,Verified
+145,19913,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,7285,2025-12-25,Pending
+146,94606,428488,Canara Robeco Mid Cap Fund 17,Redemption,57295,2025-03-24,Verified
+147,49439,713340,Tata Mutual Fund Hybrid Fund 23,SIP,914,2025-03-12,Pending
+148,28000,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,770,2026-02-06,Pending
+149,95466,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,96130,2026-04-08,Verified
+150,20429,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,43172,2025-06-27,Pending
+151,54570,668248,Franklin Templeton Index Fund 24,Redemption,48813,2025-12-26,Pending
+152,17433,708630,Kotak Mutual Fund Debt Fund 22,Lumpsum,88571,2025-03-11,Pending
+153,30766,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,19544,2025-08-15,Pending
+154,52695,843204,Mirae Asset Large Cap Fund 2,SIP,24001,2025-05-12,Verified
+155,38930,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,87516,2025-07-04,Verified
+156,10428,713340,Tata Mutual Fund Hybrid Fund 23,SIP,51014,2025-10-18,Verified
+157,46680,944560,Nippon India Small Cap Fund 28,Lumpsum,32372,2026-04-12,Pending
+158,62637,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,25334,2025-11-08,Verified
+159,29413,592424,UTI Mutual Fund Index Fund 14,SIP,57290,2025-04-10,Verified
+160,36631,260805,SBI Mutual Fund Multi Cap Fund 33,Lumpsum,25098,2025-09-16,Pending
+161,42078,544516,SBI Mutual Fund Large Cap Fund 6,SIP,34897,2026-05-14,Pending
+162,29242,708630,Kotak Mutual Fund Debt Fund 22,Lumpsum,97839,2026-03-16,Pending
+163,46005,326036,Canara Robeco Large Cap Fund 16,Lumpsum,46222,2025-09-22,Verified
+164,49041,687271,Tata Mutual Fund Flexi Cap Fund 11,SIP,53298,2025-06-06,Pending
+165,19383,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,37536,2025-04-30,Verified
+166,46704,260805,SBI Mutual Fund Multi Cap Fund 33,Lumpsum,53888,2026-04-10,Pending
+167,67867,317186,Axis Mutual Fund ELSS Fund 34,Redemption,47380,2025-04-04,Verified
+168,15354,843204,Mirae Asset Large Cap Fund 2,SIP,83612,2025-04-21,Pending
+169,59169,880134,DSP Mutual Fund Hybrid Fund 27,SIP,70094,2026-02-16,Pending
+170,45879,944560,Nippon India Small Cap Fund 28,Redemption,5584,2025-06-18,Pending
+171,11787,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,23024,2025-12-21,Verified
+172,85075,664735,Franklin Templeton Hybrid Fund 19,Lumpsum,29788,2026-04-13,Pending
+173,16306,346758,Nippon India Debt Fund 8,Lumpsum,20837,2025-12-30,Verified
+174,30368,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,88644,2025-03-19,Pending
+175,61890,326036,Canara Robeco Large Cap Fund 16,SIP,14707,2026-02-10,Pending
+176,15080,668248,Franklin Templeton Index Fund 24,Redemption,93800,2026-02-05,Verified
+177,12966,326036,Canara Robeco Large Cap Fund 16,SIP,15760,2025-10-02,Pending
+178,98588,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,1833,2025-03-19,Pending
+179,93765,346758,Nippon India Debt Fund 8,SIP,29444,2025-01-15,Pending
+180,59699,708630,Kotak Mutual Fund Debt Fund 22,Lumpsum,20034,2025-12-06,Verified
+181,94884,346758,Nippon India Debt Fund 8,Redemption,73161,2025-09-27,Pending
+182,37156,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,94852,2026-01-07,Verified
+183,96685,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,89245,2025-10-05,Pending
+184,94324,739532,Edelweiss Mutual Fund Hybrid Fund 13,Redemption,26793,2025-09-16,Verified
+185,77865,664735,Franklin Templeton Hybrid Fund 19,Lumpsum,25565,2026-03-10,Verified
+186,27921,537685,ICICI Prudential Large Cap Fund 9,SIP,13476,2025-03-16,Verified
+187,16722,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,1288,2026-03-04,Pending
+188,50405,792521,DSP Mutual Fund ELSS Fund 1,SIP,44648,2026-02-21,Verified
+189,54061,664735,Franklin Templeton Hybrid Fund 19,SIP,52678,2026-04-17,Pending
+190,15952,621203,HDFC Mutual Fund Debt Fund 12,Redemption,33287,2025-07-02,Pending
+191,87944,527330,Nippon India Small Cap Fund 15,SIP,64952,2025-11-17,Pending
+192,32351,527330,Nippon India Small Cap Fund 15,Lumpsum,90876,2025-08-16,Verified
+193,76996,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,16481,2025-05-17,Pending
+194,72345,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,16500,2026-02-20,Pending
+195,41079,664735,Franklin Templeton Hybrid Fund 19,SIP,16472,2025-01-25,Pending
+196,78939,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,47132,2025-11-24,Pending
+197,11985,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,9492,2025-03-13,Pending
+198,67767,260805,SBI Mutual Fund Multi Cap Fund 33,SIP,83145,2026-02-25,Verified
+199,27976,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,12414,2026-02-08,Verified
+200,36281,739532,Edelweiss Mutual Fund Hybrid Fund 13,Redemption,99042,2025-05-09,Pending
+201,92458,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,82280,2025-05-10,Pending
+202,49824,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,24245,2025-09-09,Verified
+203,40090,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,30834,2026-01-10,Pending
+204,22262,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,84466,2026-02-01,Verified
+205,25965,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,42405,2025-07-23,Pending
+206,99406,721881,Aditya Birla Sun Life Small Cap Fund 5,SIP,11700,2025-09-19,Verified
+207,15392,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,26301,2025-11-12,Verified
+208,45490,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,70345,2025-02-04,Pending
+209,21877,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,99664,2026-01-17,Verified
+210,99290,621203,HDFC Mutual Fund Debt Fund 12,SIP,15541,2026-02-15,Verified
+211,17944,317186,Axis Mutual Fund ELSS Fund 34,Redemption,6789,2025-01-06,Pending
+212,80914,668248,Franklin Templeton Index Fund 24,Redemption,61883,2026-04-28,Pending
+213,93902,792521,DSP Mutual Fund ELSS Fund 1,SIP,17350,2026-04-22,Verified
+214,21315,857086,Canara Robeco ELSS Fund 29,Redemption,39035,2025-10-13,Pending
+215,88055,668248,Franklin Templeton Index Fund 24,SIP,1120,2025-05-08,Verified
+216,41920,944560,Nippon India Small Cap Fund 28,SIP,61966,2025-06-17,Verified
+217,33569,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,30371,2025-08-05,Verified
+218,24590,708630,Kotak Mutual Fund Debt Fund 22,Lumpsum,25363,2025-12-17,Pending
+219,12212,260805,SBI Mutual Fund Multi Cap Fund 33,SIP,80537,2026-04-09,Pending
+220,98161,621203,HDFC Mutual Fund Debt Fund 12,SIP,68337,2026-02-12,Verified
+221,47885,975687,Nippon India Index Fund 21,Redemption,36186,2026-04-15,Pending
+222,25972,668248,Franklin Templeton Index Fund 24,Lumpsum,35928,2026-05-01,Pending
+223,39550,664735,Franklin Templeton Hybrid Fund 19,Redemption,90454,2025-11-13,Pending
+224,91787,346758,Nippon India Debt Fund 8,Lumpsum,5911,2025-05-17,Verified
+225,20662,792521,DSP Mutual Fund ELSS Fund 1,Redemption,10076,2025-04-30,Verified
+226,71168,687271,Tata Mutual Fund Flexi Cap Fund 11,Lumpsum,96180,2026-03-25,Verified
+227,11343,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,90113,2025-12-30,Pending
+228,41712,326036,Canara Robeco Large Cap Fund 16,SIP,45770,2025-01-20,Pending
+229,18705,720564,Franklin Templeton Sectoral Fund 20,Redemption,42038,2025-02-02,Pending
+230,33964,592424,UTI Mutual Fund Index Fund 14,Redemption,37047,2026-03-02,Verified
+231,15413,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,48198,2026-03-24,Verified
+232,11283,792521,DSP Mutual Fund ELSS Fund 1,SIP,3461,2025-12-10,Pending
+233,68794,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,25804,2025-01-19,Verified
+234,80194,346758,Nippon India Debt Fund 8,SIP,62827,2025-11-20,Verified
+235,87871,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,63748,2026-03-08,Verified
+236,71983,367334,HDFC Mutual Fund Large Cap Fund 25,Redemption,80144,2025-11-28,Verified
+237,39696,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,75094,2025-07-15,Pending
+238,31219,672467,HDFC Mutual Fund Sectoral Fund 4,Redemption,47639,2026-02-09,Verified
+239,88205,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,91264,2025-05-10,Pending
+240,90770,720564,Franklin Templeton Sectoral Fund 20,SIP,5776,2025-07-05,Verified
+241,79209,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,13304,2025-10-25,Pending
+242,51064,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,87970,2025-09-25,Verified
+243,56974,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,42929,2025-08-06,Verified
+244,94809,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,3716,2026-05-06,Verified
+245,95941,880134,DSP Mutual Fund Hybrid Fund 27,Redemption,68484,2025-01-19,Pending
+246,61569,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,92336,2025-12-31,Pending
+247,64937,592424,UTI Mutual Fund Index Fund 14,Lumpsum,67837,2025-07-01,Verified
+248,91904,234499,Kotak Mutual Fund Multi Cap Fund 7,Redemption,23515,2025-07-12,Pending
+249,31125,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,67422,2025-04-23,Pending
+250,26994,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,9267,2025-05-18,Pending
+251,76413,621203,HDFC Mutual Fund Debt Fund 12,Redemption,62155,2025-08-02,Pending
+252,70565,944560,Nippon India Small Cap Fund 28,SIP,66677,2025-05-30,Verified
+253,72426,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,8940,2025-06-20,Pending
+254,81912,944560,Nippon India Small Cap Fund 28,SIP,91273,2026-04-21,Pending
+255,80535,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Redemption,86542,2025-09-08,Verified
+256,52452,527330,Nippon India Small Cap Fund 15,Lumpsum,55080,2025-05-15,Pending
+257,96995,407874,UTI Mutual Fund Flexi Cap Fund 18,Redemption,88524,2025-10-06,Pending
+258,62163,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,52038,2025-05-07,Verified
+259,20300,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,51024,2025-12-11,Verified
+260,78961,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,59723,2026-05-12,Verified
+261,39930,621203,HDFC Mutual Fund Debt Fund 12,SIP,24717,2025-04-02,Pending
+262,96903,537685,ICICI Prudential Large Cap Fund 9,Redemption,43895,2026-01-03,Verified
+263,77636,621203,HDFC Mutual Fund Debt Fund 12,Redemption,34663,2025-11-27,Pending
+264,42835,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,61781,2025-07-02,Pending
+265,73053,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,54789,2025-04-09,Pending
+266,81949,260805,SBI Mutual Fund Multi Cap Fund 33,SIP,66491,2026-01-19,Verified
+267,80083,720564,Franklin Templeton Sectoral Fund 20,Redemption,66230,2025-10-19,Verified
+268,61099,991366,ICICI Prudential Debt Fund 10,Lumpsum,41209,2026-03-23,Verified
+269,70427,843204,Mirae Asset Large Cap Fund 2,Lumpsum,34981,2026-01-19,Verified
+270,79283,687271,Tata Mutual Fund Flexi Cap Fund 11,Lumpsum,43286,2026-01-29,Verified
+271,32492,668248,Franklin Templeton Index Fund 24,SIP,88740,2025-05-02,Verified
+272,77924,537685,ICICI Prudential Large Cap Fund 9,SIP,68041,2026-03-08,Pending
+273,36894,975687,Nippon India Index Fund 21,Redemption,91667,2026-03-10,Pending
+274,80968,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,65027,2025-08-16,Verified
+275,53193,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,88817,2025-02-26,Verified
+276,72596,713340,Tata Mutual Fund Hybrid Fund 23,Redemption,53224,2025-10-16,Verified
+277,77352,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,86167,2026-05-05,Pending
+278,71485,326036,Canara Robeco Large Cap Fund 16,Lumpsum,37899,2025-06-15,Pending
+279,81466,975687,Nippon India Index Fund 21,Redemption,65524,2025-06-11,Pending
+280,10861,428488,Canara Robeco Mid Cap Fund 17,SIP,44498,2025-05-06,Pending
+281,88840,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,76106,2025-09-05,Verified
+282,73825,346758,Nippon India Debt Fund 8,SIP,27377,2025-09-12,Verified
+283,73331,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,3065,2025-08-15,Pending
+284,79250,367334,HDFC Mutual Fund Large Cap Fund 25,Lumpsum,23375,2025-07-28,Pending
+285,64811,991366,ICICI Prudential Debt Fund 10,Lumpsum,24693,2025-02-05,Verified
+286,61637,592424,UTI Mutual Fund Index Fund 14,Lumpsum,90536,2025-01-06,Pending
+287,85387,944560,Nippon India Small Cap Fund 28,Redemption,56837,2026-03-11,Pending
+288,44510,537685,ICICI Prudential Large Cap Fund 9,Redemption,80137,2025-09-07,Verified
+289,81808,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,48968,2025-04-06,Pending
+290,66208,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,75677,2025-12-21,Pending
+291,82366,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,5035,2026-03-13,Pending
+292,14820,260805,SBI Mutual Fund Multi Cap Fund 33,Lumpsum,93706,2025-04-14,Verified
+293,65154,708630,Kotak Mutual Fund Debt Fund 22,Redemption,27668,2025-10-19,Pending
+294,14617,367334,HDFC Mutual Fund Large Cap Fund 25,SIP,89586,2025-11-12,Pending
+295,78286,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,80005,2025-07-06,Verified
+296,92124,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,8884,2025-07-25,Pending
+297,56948,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,67529,2025-12-30,Verified
+298,80230,317186,Axis Mutual Fund ELSS Fund 34,SIP,77226,2025-05-18,Pending
+299,36132,428488,Canara Robeco Mid Cap Fund 17,Lumpsum,97029,2025-06-11,Verified
+300,42024,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,63351,2025-01-31,Verified
+301,67316,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,97991,2026-02-25,Verified
+302,99604,843204,Mirae Asset Large Cap Fund 2,SIP,43721,2026-04-06,Verified
+303,44366,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,65671,2026-01-17,Verified
+304,65932,326036,Canara Robeco Large Cap Fund 16,Redemption,93269,2025-10-04,Pending
+305,51543,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,84057,2026-03-05,Verified
+306,21227,668248,Franklin Templeton Index Fund 24,Lumpsum,83844,2026-01-14,Verified
+307,83634,975687,Nippon India Index Fund 21,SIP,18333,2025-06-02,Pending
+308,60695,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,68856,2025-06-03,Verified
+309,69284,428488,Canara Robeco Mid Cap Fund 17,Redemption,99819,2025-04-24,Pending
+310,50544,792521,DSP Mutual Fund ELSS Fund 1,Redemption,44101,2026-03-17,Verified
+311,51979,326036,Canara Robeco Large Cap Fund 16,SIP,26855,2025-10-28,Pending
+312,59216,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,13576,2025-07-17,Pending
+313,72275,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,1356,2025-09-18,Verified
+314,61300,260805,SBI Mutual Fund Multi Cap Fund 33,Lumpsum,69458,2025-12-14,Verified
+315,49850,991366,ICICI Prudential Debt Fund 10,SIP,25055,2025-01-11,Pending
+316,86810,367334,HDFC Mutual Fund Large Cap Fund 25,SIP,33372,2025-03-24,Verified
+317,59714,720564,Franklin Templeton Sectoral Fund 20,SIP,85873,2026-02-21,Pending
+318,17861,346758,Nippon India Debt Fund 8,Lumpsum,61661,2026-03-05,Pending
+319,77542,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,28931,2025-12-18,Pending
+320,28884,537685,ICICI Prudential Large Cap Fund 9,SIP,2109,2025-03-06,Verified
+321,33584,428488,Canara Robeco Mid Cap Fund 17,Redemption,13745,2025-11-16,Pending
+322,55720,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,44017,2025-05-11,Pending
+323,31109,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,28768,2025-02-24,Verified
+324,88246,317186,Axis Mutual Fund ELSS Fund 34,Redemption,85196,2026-05-03,Pending
+325,66455,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,35304,2025-09-23,Pending
+326,66365,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,94530,2025-05-30,Verified
+327,78204,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,9589,2026-03-24,Pending
+328,39566,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,71942,2025-07-21,Pending
+329,14513,843204,Mirae Asset Large Cap Fund 2,SIP,80081,2025-03-08,Pending
+330,72678,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,80290,2025-10-02,Verified
+331,55541,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,83238,2025-12-13,Verified
+332,12449,260805,SBI Mutual Fund Multi Cap Fund 33,Redemption,25349,2026-04-08,Verified
+333,97645,428488,Canara Robeco Mid Cap Fund 17,Lumpsum,41110,2025-12-07,Pending
+334,47657,668248,Franklin Templeton Index Fund 24,Lumpsum,62828,2025-07-05,Verified
+335,81398,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,18537,2026-03-08,Verified
+336,85550,537685,ICICI Prudential Large Cap Fund 9,SIP,5329,2026-03-12,Verified
+337,54476,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,37854,2026-02-11,Verified
+338,79701,991366,ICICI Prudential Debt Fund 10,Redemption,26017,2025-06-21,Verified
+339,44701,621203,HDFC Mutual Fund Debt Fund 12,SIP,79259,2025-01-30,Pending
+340,97351,428488,Canara Robeco Mid Cap Fund 17,SIP,72455,2025-03-31,Verified
+341,76635,944560,Nippon India Small Cap Fund 28,Lumpsum,73245,2025-09-17,Pending
+342,68484,326036,Canara Robeco Large Cap Fund 16,SIP,27893,2025-08-20,Pending
+343,44844,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Redemption,52063,2025-02-26,Pending
+344,98005,326036,Canara Robeco Large Cap Fund 16,SIP,75958,2025-12-15,Verified
+345,70086,537685,ICICI Prudential Large Cap Fund 9,Redemption,20552,2025-12-29,Pending
+346,85123,428488,Canara Robeco Mid Cap Fund 17,SIP,11086,2025-10-26,Pending
+347,67904,707312,HDFC Mutual Fund Mid Cap Fund 30,SIP,13891,2025-03-20,Pending
+348,62237,944560,Nippon India Small Cap Fund 28,SIP,76198,2025-05-12,Verified
+349,75458,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,15208,2026-01-01,Pending
+350,14179,346758,Nippon India Debt Fund 8,Redemption,3605,2025-08-22,Pending
+351,14487,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,44262,2026-04-11,Verified
+352,91038,317186,Axis Mutual Fund ELSS Fund 34,SIP,34459,2025-08-25,Pending
+353,15737,721881,Aditya Birla Sun Life Small Cap Fund 5,SIP,35170,2025-03-21,Pending
+354,25373,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,54447,2025-03-19,Verified
+355,10704,975687,Nippon India Index Fund 21,Redemption,20577,2025-12-25,Verified
+356,50787,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,67911,2026-05-05,Verified
+357,46171,428488,Canara Robeco Mid Cap Fund 17,Lumpsum,82707,2025-11-27,Verified
+358,83234,317186,Axis Mutual Fund ELSS Fund 34,SIP,49276,2025-11-26,Verified
+359,48448,346758,Nippon India Debt Fund 8,SIP,29492,2026-04-30,Verified
+360,93782,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,64754,2026-02-27,Pending
+361,70955,880836,DSP Mutual Fund Small Cap Fund 32,SIP,63588,2025-05-05,Verified
+362,21992,721881,Aditya Birla Sun Life Small Cap Fund 5,Redemption,20527,2025-01-05,Verified
+363,69022,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,43633,2026-02-01,Verified
+364,75418,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,57512,2025-04-21,Verified
+365,96667,708630,Kotak Mutual Fund Debt Fund 22,Redemption,17897,2026-02-17,Pending
+366,41177,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,80706,2025-01-06,Pending
+367,90245,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,16228,2025-12-29,Verified
+368,50237,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,10136,2026-03-24,Verified
+369,43197,537685,ICICI Prudential Large Cap Fund 9,Redemption,53622,2025-06-19,Verified
+370,29962,428488,Canara Robeco Mid Cap Fund 17,SIP,80077,2025-10-27,Verified
+371,73357,991366,ICICI Prudential Debt Fund 10,SIP,91497,2025-12-24,Pending
+372,15059,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,55840,2025-09-12,Pending
+373,15612,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,89033,2025-08-25,Pending
+374,18397,720564,Franklin Templeton Sectoral Fund 20,Redemption,17739,2025-09-19,Verified
+375,31296,792521,DSP Mutual Fund ELSS Fund 1,Redemption,15681,2025-12-25,Pending
+376,92788,668248,Franklin Templeton Index Fund 24,Lumpsum,12849,2025-09-09,Verified
+377,66535,346758,Nippon India Debt Fund 8,Lumpsum,12756,2026-05-13,Verified
+378,72517,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,84668,2025-03-03,Verified
+379,13827,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,7264,2026-02-05,Verified
+380,19780,367334,HDFC Mutual Fund Large Cap Fund 25,Lumpsum,43878,2025-07-24,Verified
+381,93280,346758,Nippon India Debt Fund 8,SIP,21811,2026-03-24,Pending
+382,37831,991366,ICICI Prudential Debt Fund 10,SIP,53702,2026-04-17,Pending
+383,97800,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,46134,2026-03-27,Pending
+384,55750,708630,Kotak Mutual Fund Debt Fund 22,Redemption,68860,2025-03-06,Pending
+385,28030,944560,Nippon India Small Cap Fund 28,SIP,70898,2026-01-13,Verified
+386,83346,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,83763,2025-07-01,Pending
+387,61519,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,44261,2025-05-19,Pending
+388,99949,880836,DSP Mutual Fund Small Cap Fund 32,SIP,61479,2026-03-10,Pending
+389,58141,843204,Mirae Asset Large Cap Fund 2,Redemption,3744,2026-05-05,Pending
+390,89821,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,75311,2025-01-15,Verified
+391,30157,707312,HDFC Mutual Fund Mid Cap Fund 30,SIP,59692,2025-12-31,Pending
+392,74634,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,39762,2026-03-18,Pending
+393,12196,537685,ICICI Prudential Large Cap Fund 9,Redemption,34132,2025-11-30,Verified
+394,92960,234499,Kotak Mutual Fund Multi Cap Fund 7,SIP,15340,2025-08-08,Pending
+395,71660,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,58983,2026-03-16,Pending
+396,77765,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,1569,2025-05-27,Verified
+397,98932,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,2154,2025-04-26,Pending
+398,20137,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,17649,2025-12-11,Pending
+399,50073,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,89207,2026-05-14,Pending
+400,42933,234499,Kotak Mutual Fund Multi Cap Fund 7,Redemption,8464,2025-09-17,Pending
+401,43083,317186,Axis Mutual Fund ELSS Fund 34,Redemption,44906,2026-03-29,Verified
+402,44372,991366,ICICI Prudential Debt Fund 10,Redemption,24284,2025-11-04,Pending
+403,50096,346758,Nippon India Debt Fund 8,Redemption,91155,2025-08-21,Verified
+404,73124,687271,Tata Mutual Fund Flexi Cap Fund 11,SIP,31000,2025-03-07,Verified
+405,63108,708630,Kotak Mutual Fund Debt Fund 22,SIP,53106,2025-01-02,Verified
+406,24960,687271,Tata Mutual Fund Flexi Cap Fund 11,SIP,91920,2025-09-02,Verified
+407,51392,621203,HDFC Mutual Fund Debt Fund 12,Redemption,20604,2025-07-04,Pending
+408,62842,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,24905,2026-03-25,Verified
+409,61234,687271,Tata Mutual Fund Flexi Cap Fund 11,SIP,88712,2025-01-10,Verified
+410,64416,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,62954,2026-01-27,Pending
+411,71418,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,11671,2025-12-21,Pending
+412,51174,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,45589,2025-08-09,Pending
+413,97096,592424,UTI Mutual Fund Index Fund 14,Redemption,42091,2026-05-06,Pending
+414,28671,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,50404,2026-01-22,Verified
+415,57421,720564,Franklin Templeton Sectoral Fund 20,Redemption,57249,2025-08-16,Verified
+416,87366,944560,Nippon India Small Cap Fund 28,SIP,9531,2025-07-13,Pending
+417,10653,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,1239,2025-01-23,Verified
+418,65277,317186,Axis Mutual Fund ELSS Fund 34,Redemption,17973,2026-01-12,Verified
+419,83412,592424,UTI Mutual Fund Index Fund 14,Redemption,37113,2025-04-28,Verified
+420,30678,367334,HDFC Mutual Fund Large Cap Fund 25,Redemption,7605,2025-05-27,Verified
+421,62548,944560,Nippon India Small Cap Fund 28,Redemption,82320,2025-01-06,Pending
+422,57112,843204,Mirae Asset Large Cap Fund 2,Redemption,7014,2025-05-06,Pending
+423,60360,428488,Canara Robeco Mid Cap Fund 17,Redemption,99148,2025-01-19,Verified
+424,89846,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,17314,2026-02-23,Verified
+425,85750,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,18930,2026-01-29,Pending
+426,80708,975687,Nippon India Index Fund 21,Redemption,79513,2025-02-17,Verified
+427,44595,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,69393,2025-09-26,Verified
+428,30701,720564,Franklin Templeton Sectoral Fund 20,SIP,7511,2026-02-15,Verified
+429,93294,428488,Canara Robeco Mid Cap Fund 17,SIP,43571,2025-08-19,Pending
+430,72506,668248,Franklin Templeton Index Fund 24,Lumpsum,13243,2025-07-20,Pending
+431,64684,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,75389,2025-12-06,Pending
+432,25910,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,60262,2025-08-21,Verified
+433,43621,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,2195,2026-03-08,Pending
+434,40937,326036,Canara Robeco Large Cap Fund 16,Lumpsum,59021,2026-03-11,Pending
+435,98663,260805,SBI Mutual Fund Multi Cap Fund 33,SIP,7517,2025-10-22,Pending
+436,27859,720564,Franklin Templeton Sectoral Fund 20,SIP,19243,2026-05-06,Verified
+437,34505,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,65277,2025-05-29,Pending
+438,14786,843204,Mirae Asset Large Cap Fund 2,Redemption,48732,2025-09-21,Verified
+439,31555,367334,HDFC Mutual Fund Large Cap Fund 25,SIP,52248,2026-04-23,Pending
+440,82533,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,72383,2025-11-19,Verified
+441,33172,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,23270,2026-02-05,Verified
+442,62008,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,70947,2025-03-25,Verified
+443,88350,739532,Edelweiss Mutual Fund Hybrid Fund 13,SIP,81771,2025-01-27,Verified
+444,30932,991366,ICICI Prudential Debt Fund 10,SIP,34856,2025-05-14,Verified
+445,61617,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,43598,2025-09-28,Verified
+446,81266,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,17283,2026-01-18,Verified
+447,21695,260805,SBI Mutual Fund Multi Cap Fund 33,SIP,23655,2025-12-03,Pending
+448,97301,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,60176,2025-09-06,Pending
+449,93855,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,61708,2025-12-19,Verified
+450,15604,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,17439,2026-03-22,Pending
+451,29427,721881,Aditya Birla Sun Life Small Cap Fund 5,Lumpsum,3708,2025-06-12,Verified
+452,71697,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,10575,2025-03-13,Pending
+453,75821,664735,Franklin Templeton Hybrid Fund 19,Lumpsum,21493,2025-05-17,Pending
+454,56576,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,40741,2025-04-28,Pending
+455,75028,234499,Kotak Mutual Fund Multi Cap Fund 7,Redemption,47861,2025-01-18,Pending
+456,12945,260805,SBI Mutual Fund Multi Cap Fund 33,SIP,92509,2025-10-02,Pending
+457,57400,857086,Canara Robeco ELSS Fund 29,Redemption,55541,2025-01-03,Verified
+458,72204,260805,SBI Mutual Fund Multi Cap Fund 33,Redemption,19244,2025-06-04,Pending
+459,73556,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,11233,2025-02-16,Pending
+460,80007,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,10565,2025-11-26,Pending
+461,23006,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,50097,2025-08-01,Pending
+462,81861,346758,Nippon India Debt Fund 8,Redemption,30621,2025-06-22,Pending
+463,37548,668248,Franklin Templeton Index Fund 24,SIP,2023,2026-05-07,Verified
+464,38034,527330,Nippon India Small Cap Fund 15,Lumpsum,80769,2025-12-19,Verified
+465,68826,317186,Axis Mutual Fund ELSS Fund 34,Redemption,92586,2025-08-09,Verified
+466,78460,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,31531,2025-09-24,Verified
+467,10803,621203,HDFC Mutual Fund Debt Fund 12,Redemption,86761,2026-01-11,Verified
+468,45522,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,83292,2025-02-18,Pending
+469,88772,944560,Nippon India Small Cap Fund 28,Redemption,58938,2025-03-05,Verified
+470,93180,687271,Tata Mutual Fund Flexi Cap Fund 11,Lumpsum,33671,2025-01-20,Pending
+471,41870,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,19835,2026-04-27,Pending
+472,67433,346758,Nippon India Debt Fund 8,SIP,61983,2026-03-31,Verified
+473,82471,234499,Kotak Mutual Fund Multi Cap Fund 7,SIP,31407,2025-01-15,Pending
+474,42749,668248,Franklin Templeton Index Fund 24,Redemption,32028,2025-06-06,Verified
+475,93256,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,44574,2025-01-01,Verified
+476,64918,592424,UTI Mutual Fund Index Fund 14,Redemption,30917,2026-02-01,Pending
+477,40682,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,96564,2025-10-19,Pending
+478,24613,234499,Kotak Mutual Fund Multi Cap Fund 7,SIP,88165,2025-11-27,Verified
+479,21860,991366,ICICI Prudential Debt Fund 10,SIP,61498,2026-03-31,Pending
+480,48203,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,24432,2025-04-28,Verified
+481,82848,621203,HDFC Mutual Fund Debt Fund 12,SIP,98408,2025-09-11,Verified
+482,69052,944560,Nippon India Small Cap Fund 28,Redemption,98095,2025-11-26,Pending
+483,93286,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,23528,2025-08-24,Pending
+484,34529,672467,HDFC Mutual Fund Sectoral Fund 4,Lumpsum,90946,2026-04-21,Verified
+485,46773,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,17809,2026-05-15,Pending
+486,86132,792521,DSP Mutual Fund ELSS Fund 1,Redemption,20573,2025-01-25,Pending
+487,25630,713340,Tata Mutual Fund Hybrid Fund 23,SIP,69516,2025-12-23,Verified
+488,17824,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,37705,2025-03-10,Pending
+489,68696,428488,Canara Robeco Mid Cap Fund 17,Redemption,93989,2026-04-26,Verified
+490,66842,260805,SBI Mutual Fund Multi Cap Fund 33,Lumpsum,80166,2025-05-18,Pending
+491,58474,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,26120,2025-10-11,Verified
+492,43541,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,72439,2025-09-09,Pending
+493,84737,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,88568,2025-06-28,Verified
+494,67308,260805,SBI Mutual Fund Multi Cap Fund 33,Lumpsum,13230,2025-12-30,Verified
+495,71110,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,13864,2025-06-16,Pending
+496,56070,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,20514,2025-09-17,Pending
+497,18148,346758,Nippon India Debt Fund 8,Lumpsum,59925,2026-01-24,Pending
+498,27702,857086,Canara Robeco ELSS Fund 29,Lumpsum,57022,2025-02-09,Verified
+499,55075,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,76303,2026-02-04,Pending
+500,70331,544516,SBI Mutual Fund Large Cap Fund 6,SIP,45513,2025-04-15,Verified
+501,97777,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,52307,2025-02-04,Pending
+502,59224,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,83078,2025-03-12,Pending
+503,77225,991366,ICICI Prudential Debt Fund 10,SIP,61143,2025-03-28,Pending
+504,22372,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,66438,2025-11-16,Pending
+505,29864,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,88269,2026-01-22,Pending
+506,75306,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,92353,2025-06-23,Verified
+507,25755,857086,Canara Robeco ELSS Fund 29,SIP,80629,2025-03-01,Pending
+508,74790,317186,Axis Mutual Fund ELSS Fund 34,SIP,54423,2026-02-24,Pending
+509,64684,672467,HDFC Mutual Fund Sectoral Fund 4,Lumpsum,32072,2026-02-02,Pending
+510,71018,537685,ICICI Prudential Large Cap Fund 9,SIP,1170,2025-08-11,Verified
+511,26564,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,59150,2025-01-17,Pending
+512,35471,592424,UTI Mutual Fund Index Fund 14,SIP,17536,2025-11-05,Verified
+513,27361,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,64955,2026-03-29,Pending
+514,60415,664735,Franklin Templeton Hybrid Fund 19,SIP,9916,2026-01-27,Verified
+515,52465,428488,Canara Robeco Mid Cap Fund 17,Lumpsum,36885,2026-03-04,Verified
+516,95300,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,46218,2025-09-01,Pending
+517,12041,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,87293,2025-04-26,Verified
+518,95326,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,5577,2025-10-21,Pending
+519,78085,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,42645,2025-06-19,Verified
+520,31295,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,75380,2025-09-15,Verified
+521,53651,975687,Nippon India Index Fund 21,Lumpsum,80827,2025-06-16,Pending
+522,48084,428488,Canara Robeco Mid Cap Fund 17,Redemption,39392,2025-10-02,Verified
+523,67948,317186,Axis Mutual Fund ELSS Fund 34,SIP,61812,2026-01-16,Pending
+524,41747,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,61467,2026-05-01,Verified
+525,93690,537685,ICICI Prudential Large Cap Fund 9,SIP,77722,2025-02-07,Pending
+526,87997,843204,Mirae Asset Large Cap Fund 2,Lumpsum,68193,2025-06-29,Pending
+527,21636,792521,DSP Mutual Fund ELSS Fund 1,Redemption,24974,2025-01-17,Pending
+528,30557,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,68532,2025-10-27,Pending
+529,46956,234499,Kotak Mutual Fund Multi Cap Fund 7,SIP,57533,2025-11-18,Verified
+530,87695,527330,Nippon India Small Cap Fund 15,SIP,72775,2026-02-21,Pending
+531,14091,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,4276,2025-05-05,Pending
+532,28664,672467,HDFC Mutual Fund Sectoral Fund 4,Lumpsum,54879,2025-01-26,Pending
+533,59044,428488,Canara Robeco Mid Cap Fund 17,SIP,9476,2025-07-06,Pending
+534,52621,721881,Aditya Birla Sun Life Small Cap Fund 5,Redemption,53024,2025-05-11,Verified
+535,17570,537685,ICICI Prudential Large Cap Fund 9,Redemption,83878,2025-06-09,Pending
+536,93042,621203,HDFC Mutual Fund Debt Fund 12,SIP,66288,2025-05-21,Verified
+537,71284,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,96589,2026-01-08,Verified
+538,16984,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,64439,2025-06-24,Verified
+539,57049,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,53121,2025-05-28,Verified
+540,10821,708630,Kotak Mutual Fund Debt Fund 22,Redemption,46027,2025-05-09,Verified
+541,47455,668248,Franklin Templeton Index Fund 24,Redemption,39068,2025-08-03,Verified
+542,71965,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,84306,2025-06-11,Verified
+543,39445,668248,Franklin Templeton Index Fund 24,Redemption,57119,2026-04-05,Verified
+544,66519,944560,Nippon India Small Cap Fund 28,Lumpsum,16096,2025-12-11,Pending
+545,63054,428488,Canara Robeco Mid Cap Fund 17,Redemption,87525,2026-01-15,Verified
+546,46266,346758,Nippon India Debt Fund 8,Redemption,4870,2025-04-02,Verified
+547,50375,720564,Franklin Templeton Sectoral Fund 20,SIP,7663,2025-06-11,Pending
+548,32917,880134,DSP Mutual Fund Hybrid Fund 27,SIP,35245,2025-12-01,Pending
+549,72319,975687,Nippon India Index Fund 21,SIP,70732,2026-02-04,Pending
+550,29352,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,36808,2025-07-30,Pending
+551,58350,991366,ICICI Prudential Debt Fund 10,Redemption,30457,2025-03-11,Pending
+552,69995,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,8319,2026-01-21,Verified
+553,72657,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,12530,2025-11-10,Pending
+554,47115,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,83631,2025-12-20,Verified
+555,97041,944560,Nippon India Small Cap Fund 28,Lumpsum,1349,2025-04-23,Pending
+556,15738,544516,SBI Mutual Fund Large Cap Fund 6,SIP,32491,2025-12-05,Pending
+557,82747,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,25630,2026-03-02,Verified
+558,70198,672467,HDFC Mutual Fund Sectoral Fund 4,Lumpsum,48341,2025-11-22,Pending
+559,55063,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,75462,2025-01-25,Pending
+560,18056,668248,Franklin Templeton Index Fund 24,Lumpsum,95423,2025-04-02,Verified
+561,54446,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,12606,2025-09-16,Verified
+562,65289,843204,Mirae Asset Large Cap Fund 2,Lumpsum,44970,2025-12-16,Pending
+563,15898,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,44124,2026-05-07,Verified
+564,50291,428488,Canara Robeco Mid Cap Fund 17,SIP,78017,2026-04-18,Pending
+565,75234,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,83144,2026-05-16,Verified
+566,19727,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,73876,2025-10-11,Pending
+567,90249,944560,Nippon India Small Cap Fund 28,Redemption,70102,2026-03-20,Verified
+568,64542,592424,UTI Mutual Fund Index Fund 14,Lumpsum,45480,2025-12-19,Verified
+569,76387,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,35245,2026-04-26,Verified
+570,50001,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,8809,2025-08-26,Pending
+571,90605,234499,Kotak Mutual Fund Multi Cap Fund 7,SIP,28916,2026-02-17,Verified
+572,83012,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,44525,2026-05-05,Pending
+573,81830,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,13829,2025-01-08,Pending
+574,21374,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,64975,2025-01-11,Verified
+575,13748,857086,Canara Robeco ELSS Fund 29,Redemption,66247,2025-07-19,Pending
+576,32986,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,67138,2026-01-30,Pending
+577,81260,843204,Mirae Asset Large Cap Fund 2,Lumpsum,4836,2026-03-18,Verified
+578,83607,880134,DSP Mutual Fund Hybrid Fund 27,Lumpsum,61562,2025-10-13,Verified
+579,11864,346758,Nippon India Debt Fund 8,Redemption,31764,2026-04-13,Verified
+580,11212,367334,HDFC Mutual Fund Large Cap Fund 25,Redemption,3342,2025-03-17,Pending
+581,48106,792521,DSP Mutual Fund ELSS Fund 1,SIP,89031,2025-01-26,Pending
+582,17723,317186,Axis Mutual Fund ELSS Fund 34,SIP,52783,2025-02-25,Verified
+583,41362,944560,Nippon India Small Cap Fund 28,Lumpsum,73151,2025-05-31,Pending
+584,71054,672467,HDFC Mutual Fund Sectoral Fund 4,Redemption,17619,2025-11-26,Pending
+585,66935,708630,Kotak Mutual Fund Debt Fund 22,SIP,58695,2026-05-13,Pending
+586,39080,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,9377,2026-03-19,Verified
+587,65632,880836,DSP Mutual Fund Small Cap Fund 32,SIP,54316,2025-12-09,Pending
+588,43380,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,31945,2026-04-30,Pending
+589,12812,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,59922,2025-10-31,Verified
+590,94904,664735,Franklin Templeton Hybrid Fund 19,Redemption,17123,2025-01-06,Pending
+591,24131,537685,ICICI Prudential Large Cap Fund 9,SIP,8123,2025-08-19,Verified
+592,68694,527330,Nippon India Small Cap Fund 15,Lumpsum,8984,2025-11-24,Verified
+593,61847,544516,SBI Mutual Fund Large Cap Fund 6,SIP,53934,2025-12-13,Verified
+594,49198,944560,Nippon India Small Cap Fund 28,Lumpsum,51940,2025-03-26,Pending
+595,15033,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,37606,2026-02-21,Verified
+596,49868,317186,Axis Mutual Fund ELSS Fund 34,SIP,6373,2025-07-27,Verified
+597,85516,527330,Nippon India Small Cap Fund 15,Lumpsum,53753,2025-02-11,Verified
+598,60365,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,86707,2025-12-14,Pending
+599,43071,125497,SBI Small Cap Fund - Direct Plan - Growth,SIP,26341,2026-03-16,Pending
+600,70770,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,68599,2026-02-25,Pending
+601,53969,664735,Franklin Templeton Hybrid Fund 19,SIP,32582,2025-10-26,Verified
+602,43088,527330,Nippon India Small Cap Fund 15,Redemption,32354,2026-04-22,Pending
+603,33240,721881,Aditya Birla Sun Life Small Cap Fund 5,Redemption,8200,2025-11-13,Pending
+604,89423,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,90252,2026-02-01,Pending
+605,87117,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,91130,2025-11-09,Verified
+606,80159,713340,Tata Mutual Fund Hybrid Fund 23,Redemption,28400,2025-07-09,Pending
+607,99095,428488,Canara Robeco Mid Cap Fund 17,SIP,6389,2025-11-25,Verified
+608,66537,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,66260,2025-11-20,Pending
+609,48002,707312,HDFC Mutual Fund Mid Cap Fund 30,SIP,25504,2025-06-19,Verified
+610,36592,944560,Nippon India Small Cap Fund 28,SIP,86549,2025-08-06,Verified
+611,35806,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,13177,2026-03-01,Pending
+612,97098,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,13956,2026-03-22,Pending
+613,38324,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,16803,2025-06-19,Pending
+614,39413,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,39758,2026-01-29,Pending
+615,77201,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,31683,2025-02-06,Pending
+616,28167,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,92130,2025-09-19,Verified
+617,34151,880836,DSP Mutual Fund Small Cap Fund 32,SIP,38856,2025-05-05,Verified
+618,20635,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,10396,2026-02-16,Pending
+619,81737,326036,Canara Robeco Large Cap Fund 16,SIP,765,2025-06-24,Pending
+620,39370,260805,SBI Mutual Fund Multi Cap Fund 33,Redemption,29626,2025-07-24,Pending
+621,96774,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,43955,2025-06-14,Verified
+622,12837,857086,Canara Robeco ELSS Fund 29,SIP,13760,2025-07-15,Pending
+623,97264,687271,Tata Mutual Fund Flexi Cap Fund 11,SIP,81561,2025-04-19,Pending
+624,36587,668248,Franklin Templeton Index Fund 24,Redemption,23239,2025-09-18,Verified
+625,59767,792521,DSP Mutual Fund ELSS Fund 1,SIP,51112,2025-04-01,Verified
+626,38463,720564,Franklin Templeton Sectoral Fund 20,SIP,65559,2025-12-05,Pending
+627,39289,880836,DSP Mutual Fund Small Cap Fund 32,SIP,40242,2025-06-08,Pending
+628,65066,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,90295,2025-10-05,Pending
+629,25748,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,3604,2025-03-21,Verified
+630,21108,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,29896,2025-10-15,Pending
+631,71897,367334,HDFC Mutual Fund Large Cap Fund 25,Redemption,70715,2026-02-09,Verified
+632,36792,944560,Nippon India Small Cap Fund 28,Redemption,19079,2026-01-22,Verified
+633,70584,975687,Nippon India Index Fund 21,Lumpsum,11564,2025-11-05,Pending
+634,32493,687271,Tata Mutual Fund Flexi Cap Fund 11,Lumpsum,1408,2026-01-30,Verified
+635,52800,326036,Canara Robeco Large Cap Fund 16,Lumpsum,82936,2026-03-09,Verified
+636,37670,592424,UTI Mutual Fund Index Fund 14,SIP,41298,2025-04-17,Verified
+637,50803,672467,HDFC Mutual Fund Sectoral Fund 4,Redemption,36667,2026-01-02,Pending
+638,44147,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,89201,2025-02-10,Verified
+639,95540,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,26747,2025-06-14,Pending
+640,89234,687271,Tata Mutual Fund Flexi Cap Fund 11,Lumpsum,45366,2025-04-06,Verified
+641,31875,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,74297,2025-05-22,Pending
+642,89697,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,50055,2025-06-10,Verified
+643,37236,326036,Canara Robeco Large Cap Fund 16,SIP,77788,2025-03-03,Pending
+644,22978,713340,Tata Mutual Fund Hybrid Fund 23,Redemption,73470,2025-03-10,Pending
+645,87160,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,4133,2025-12-04,Pending
+646,67355,326036,Canara Robeco Large Cap Fund 16,Lumpsum,68447,2025-08-03,Verified
+647,62670,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,57159,2026-05-07,Verified
+648,42989,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,73570,2025-03-01,Pending
+649,69201,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,53970,2025-10-30,Verified
+650,60762,672467,HDFC Mutual Fund Sectoral Fund 4,Redemption,23470,2025-06-13,Verified
+651,36671,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,99559,2026-04-10,Verified
+652,38199,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,74135,2025-11-27,Verified
+653,58889,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,21965,2025-12-04,Verified
+654,58268,843204,Mirae Asset Large Cap Fund 2,Redemption,59368,2026-01-18,Verified
+655,74870,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,68991,2025-04-17,Pending
+656,78323,664735,Franklin Templeton Hybrid Fund 19,Lumpsum,55995,2025-07-14,Verified
+657,62584,720564,Franklin Templeton Sectoral Fund 20,Redemption,45632,2026-02-13,Verified
+658,77226,708630,Kotak Mutual Fund Debt Fund 22,Lumpsum,1360,2025-08-06,Verified
+659,92449,317186,Axis Mutual Fund ELSS Fund 34,Redemption,95215,2026-02-08,Verified
+660,47003,713340,Tata Mutual Fund Hybrid Fund 23,SIP,49537,2025-07-25,Pending
+661,68976,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,42963,2025-01-27,Verified
+662,82288,975687,Nippon India Index Fund 21,Lumpsum,1345,2026-04-10,Verified
+663,80584,428488,Canara Robeco Mid Cap Fund 17,Redemption,87194,2025-05-27,Pending
+664,79387,857086,Canara Robeco ELSS Fund 29,Redemption,33323,2025-12-27,Pending
+665,37475,721881,Aditya Birla Sun Life Small Cap Fund 5,Redemption,18201,2025-11-01,Verified
+666,49587,944560,Nippon India Small Cap Fund 28,Redemption,85881,2025-02-24,Verified
+667,79586,317186,Axis Mutual Fund ELSS Fund 34,Redemption,24312,2025-11-28,Pending
+668,60024,527330,Nippon India Small Cap Fund 15,SIP,38805,2025-03-25,Pending
+669,54193,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Redemption,98501,2025-07-11,Verified
+670,71525,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,60539,2025-09-26,Pending
+671,61644,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,48758,2025-01-06,Verified
+672,25458,527330,Nippon India Small Cap Fund 15,Redemption,72423,2025-01-17,Verified
+673,91144,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,31167,2025-11-21,Verified
+674,33421,428488,Canara Robeco Mid Cap Fund 17,Redemption,65826,2025-09-20,Pending
+675,55419,527330,Nippon India Small Cap Fund 15,Redemption,53081,2025-06-30,Verified
+676,75148,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,24822,2025-01-26,Verified
+677,90547,326036,Canara Robeco Large Cap Fund 16,SIP,15234,2025-06-25,Pending
+678,22667,708630,Kotak Mutual Fund Debt Fund 22,Redemption,78150,2025-10-22,Pending
+679,94307,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,99292,2026-02-25,Verified
+680,93929,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,91765,2025-02-15,Pending
+681,62300,843204,Mirae Asset Large Cap Fund 2,Lumpsum,2303,2025-04-12,Verified
+682,12178,537685,ICICI Prudential Large Cap Fund 9,Redemption,87601,2026-04-16,Pending
+683,11775,792521,DSP Mutual Fund ELSS Fund 1,SIP,18848,2025-06-26,Verified
+684,12561,527330,Nippon India Small Cap Fund 15,SIP,36129,2026-01-16,Pending
+685,38587,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,2694,2025-07-30,Pending
+686,77153,621203,HDFC Mutual Fund Debt Fund 12,SIP,47620,2025-10-18,Pending
+687,68219,672467,HDFC Mutual Fund Sectoral Fund 4,Redemption,88307,2025-01-23,Pending
+688,80741,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Redemption,80725,2025-02-23,Pending
+689,42385,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,92712,2026-04-20,Verified
+690,49610,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,19789,2026-01-31,Verified
+691,96530,346758,Nippon India Debt Fund 8,SIP,15077,2025-09-03,Pending
+692,90823,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,94804,2025-11-02,Pending
+693,71472,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,81432,2025-01-01,Verified
+694,82081,668248,Franklin Templeton Index Fund 24,Lumpsum,2195,2025-07-09,Verified
+695,41426,346758,Nippon India Debt Fund 8,Redemption,66379,2026-02-22,Pending
+696,25386,326036,Canara Robeco Large Cap Fund 16,SIP,28407,2026-01-16,Pending
+697,88487,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,2074,2025-09-03,Verified
+698,15272,592424,UTI Mutual Fund Index Fund 14,Redemption,3774,2025-01-05,Verified
+699,60895,944560,Nippon India Small Cap Fund 28,SIP,4269,2026-04-11,Verified
+700,94936,975687,Nippon India Index Fund 21,SIP,29158,2026-04-14,Pending
+701,37445,621203,HDFC Mutual Fund Debt Fund 12,SIP,60296,2025-02-10,Verified
+702,30256,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,8045,2025-11-03,Verified
+703,81174,527330,Nippon India Small Cap Fund 15,SIP,78907,2026-04-26,Pending
+704,14443,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,93563,2025-05-31,Verified
+705,24582,857086,Canara Robeco ELSS Fund 29,Redemption,20125,2025-07-02,Verified
+706,86966,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,19239,2026-05-16,Pending
+707,63238,857086,Canara Robeco ELSS Fund 29,SIP,76215,2025-03-12,Verified
+708,65278,668248,Franklin Templeton Index Fund 24,Redemption,96077,2025-02-21,Pending
+709,41024,234499,Kotak Mutual Fund Multi Cap Fund 7,SIP,30530,2025-01-05,Pending
+710,27476,621203,HDFC Mutual Fund Debt Fund 12,SIP,92518,2026-01-20,Pending
+711,81506,672467,HDFC Mutual Fund Sectoral Fund 4,Redemption,3743,2025-08-18,Verified
+712,39874,537685,ICICI Prudential Large Cap Fund 9,SIP,7202,2025-10-04,Verified
+713,55962,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,8612,2026-05-03,Verified
+714,63546,621203,HDFC Mutual Fund Debt Fund 12,Redemption,1678,2025-03-18,Pending
+715,23056,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,16820,2025-06-30,Verified
+716,48173,317186,Axis Mutual Fund ELSS Fund 34,Redemption,56257,2025-09-24,Pending
+717,29065,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,5902,2025-09-30,Verified
+718,53462,991366,ICICI Prudential Debt Fund 10,Redemption,38520,2025-09-10,Pending
+719,42958,721881,Aditya Birla Sun Life Small Cap Fund 5,SIP,76418,2025-12-06,Pending
+720,43900,843204,Mirae Asset Large Cap Fund 2,SIP,22757,2025-07-10,Verified
+721,51768,428488,Canara Robeco Mid Cap Fund 17,SIP,17587,2025-10-04,Pending
+722,78388,234499,Kotak Mutual Fund Multi Cap Fund 7,Redemption,2430,2025-02-12,Verified
+723,48249,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,64822,2026-01-08,Verified
+724,61633,664735,Franklin Templeton Hybrid Fund 19,SIP,36567,2025-10-04,Verified
+725,95117,527330,Nippon India Small Cap Fund 15,Lumpsum,34975,2026-01-28,Pending
+726,60199,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,40351,2026-01-22,Pending
+727,29671,843204,Mirae Asset Large Cap Fund 2,SIP,78975,2026-04-10,Pending
+728,80154,317186,Axis Mutual Fund ELSS Fund 34,Redemption,7905,2025-06-28,Pending
+729,15869,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,95763,2025-04-05,Verified
+730,41373,664735,Franklin Templeton Hybrid Fund 19,Lumpsum,14052,2026-01-05,Pending
+731,78042,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,51612,2026-03-30,Verified
+732,33787,346758,Nippon India Debt Fund 8,SIP,35909,2025-01-21,Pending
+733,11629,713340,Tata Mutual Fund Hybrid Fund 23,Redemption,22469,2026-05-09,Verified
+734,95974,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,6846,2025-01-26,Pending
+735,40666,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,68206,2025-02-26,Verified
+736,87205,326036,Canara Robeco Large Cap Fund 16,Redemption,79493,2025-01-23,Verified
+737,88790,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,78865,2025-11-25,Pending
+738,57612,991366,ICICI Prudential Debt Fund 10,Lumpsum,17235,2025-09-23,Pending
+739,95583,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,84328,2026-02-02,Pending
+740,58169,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,54509,2025-07-31,Verified
+741,85593,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,79594,2025-05-15,Verified
+742,85784,527330,Nippon India Small Cap Fund 15,SIP,31556,2025-12-16,Pending
+743,37488,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,84970,2025-06-28,Verified
+744,92048,880134,DSP Mutual Fund Hybrid Fund 27,Redemption,30087,2025-09-03,Verified
+745,39534,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,33012,2025-06-21,Pending
+746,74071,792521,DSP Mutual Fund ELSS Fund 1,SIP,6285,2025-01-10,Verified
+747,57664,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,98691,2026-02-10,Pending
+748,90081,991366,ICICI Prudential Debt Fund 10,Lumpsum,12169,2025-10-04,Verified
+749,60155,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,96585,2026-01-07,Pending
+750,58937,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,97139,2025-03-30,Pending
+751,93388,346758,Nippon India Debt Fund 8,Lumpsum,74756,2026-03-26,Pending
+752,33017,720564,Franklin Templeton Sectoral Fund 20,Redemption,57714,2025-09-14,Pending
+753,89638,668248,Franklin Templeton Index Fund 24,Redemption,64962,2025-09-14,Pending
+754,65765,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,50212,2025-03-17,Pending
+755,72669,721881,Aditya Birla Sun Life Small Cap Fund 5,Lumpsum,94242,2025-10-06,Verified
+756,22656,880134,DSP Mutual Fund Hybrid Fund 27,Redemption,3607,2025-01-16,Verified
+757,31789,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,91710,2025-09-24,Verified
+758,34602,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,4425,2025-11-13,Verified
+759,77363,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,57827,2026-05-02,Pending
+760,14963,668248,Franklin Templeton Index Fund 24,SIP,23030,2025-07-10,Verified
+761,49383,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,79780,2025-10-02,Verified
+762,46225,326036,Canara Robeco Large Cap Fund 16,SIP,84528,2025-10-03,Pending
+763,60661,326036,Canara Robeco Large Cap Fund 16,SIP,74108,2026-05-12,Verified
+764,82360,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,52331,2025-03-21,Pending
+765,17031,664735,Franklin Templeton Hybrid Fund 19,Redemption,94040,2025-05-26,Verified
+766,52938,621203,HDFC Mutual Fund Debt Fund 12,Redemption,91723,2025-10-09,Verified
+767,47516,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,33306,2025-06-11,Verified
+768,28396,975687,Nippon India Index Fund 21,Lumpsum,70665,2025-12-08,Verified
+769,13635,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,82774,2025-01-03,Verified
+770,64204,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,78031,2026-02-10,Verified
+771,28772,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,62796,2025-11-05,Pending
+772,13260,260805,SBI Mutual Fund Multi Cap Fund 33,Lumpsum,13496,2025-08-23,Verified
+773,43754,843204,Mirae Asset Large Cap Fund 2,SIP,3949,2026-02-08,Pending
+774,23094,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,13098,2025-04-11,Verified
+775,42460,326036,Canara Robeco Large Cap Fund 16,Redemption,66136,2026-02-24,Verified
+776,87070,592424,UTI Mutual Fund Index Fund 14,Lumpsum,23998,2025-07-31,Pending
+777,99773,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,91543,2025-05-29,Verified
+778,60475,407874,UTI Mutual Fund Flexi Cap Fund 18,Redemption,27580,2025-12-03,Verified
+779,71467,668248,Franklin Templeton Index Fund 24,Lumpsum,31283,2025-10-05,Verified
+780,14609,991366,ICICI Prudential Debt Fund 10,Redemption,78174,2026-02-03,Verified
+781,30697,708630,Kotak Mutual Fund Debt Fund 22,Redemption,81671,2026-03-18,Pending
+782,14196,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,81853,2025-01-26,Pending
+783,63693,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,54283,2025-11-07,Verified
+784,50134,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Redemption,97950,2025-05-16,Pending
+785,70380,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,98571,2025-12-10,Pending
+786,78971,664735,Franklin Templeton Hybrid Fund 19,Redemption,11417,2025-05-02,Pending
+787,34017,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,52063,2025-07-24,Verified
+788,23448,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,96959,2026-03-05,Verified
+789,33504,537685,ICICI Prudential Large Cap Fund 9,Redemption,58935,2026-05-02,Verified
+790,27750,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Redemption,55076,2025-04-17,Verified
+791,39287,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,86511,2026-04-30,Pending
+792,83549,317186,Axis Mutual Fund ELSS Fund 34,SIP,23326,2026-02-11,Pending
+793,19699,857086,Canara Robeco ELSS Fund 29,SIP,14367,2025-12-01,Pending
+794,14875,527330,Nippon India Small Cap Fund 15,Redemption,49788,2025-03-14,Verified
+795,76391,672467,HDFC Mutual Fund Sectoral Fund 4,Lumpsum,34200,2025-07-28,Pending
+796,23650,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,47979,2025-08-30,Pending
+797,37492,592424,UTI Mutual Fund Index Fund 14,Redemption,97625,2025-06-17,Pending
+798,97467,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,1222,2025-08-30,Pending
+799,23036,326036,Canara Robeco Large Cap Fund 16,SIP,11547,2026-02-06,Verified
+800,10449,857086,Canara Robeco ELSS Fund 29,SIP,53077,2025-04-22,Verified
+801,30703,668248,Franklin Templeton Index Fund 24,Lumpsum,57377,2025-02-02,Verified
+802,46853,857086,Canara Robeco ELSS Fund 29,Redemption,94249,2026-04-13,Pending
+803,78353,880134,DSP Mutual Fund Hybrid Fund 27,SIP,5055,2025-07-06,Verified
+804,25079,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,43331,2025-06-05,Pending
+805,62739,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Redemption,38777,2025-04-29,Verified
+806,28626,857086,Canara Robeco ELSS Fund 29,SIP,93279,2026-04-04,Pending
+807,39028,843204,Mirae Asset Large Cap Fund 2,SIP,94277,2026-02-18,Verified
+808,46528,367334,HDFC Mutual Fund Large Cap Fund 25,SIP,5928,2025-04-16,Pending
+809,34209,857086,Canara Robeco ELSS Fund 29,Lumpsum,69996,2025-11-05,Pending
+810,50707,317186,Axis Mutual Fund ELSS Fund 34,Redemption,2837,2025-02-22,Verified
+811,55676,428488,Canara Robeco Mid Cap Fund 17,Lumpsum,16689,2025-03-19,Pending
+812,79186,857086,Canara Robeco ELSS Fund 29,Redemption,80420,2025-04-14,Pending
+813,32084,592424,UTI Mutual Fund Index Fund 14,Redemption,55772,2026-03-21,Verified
+814,63836,708630,Kotak Mutual Fund Debt Fund 22,Redemption,72758,2025-07-07,Pending
+815,65306,422128,UTI Mutual Fund Flexi Cap Fund 3,Redemption,85687,2025-05-21,Pending
+816,41030,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,68228,2026-01-04,Pending
+817,81973,687271,Tata Mutual Fund Flexi Cap Fund 11,SIP,17566,2025-12-29,Verified
+818,82076,317186,Axis Mutual Fund ELSS Fund 34,Redemption,11073,2025-08-23,Verified
+819,33877,991366,ICICI Prudential Debt Fund 10,Lumpsum,92718,2026-02-10,Pending
+820,68281,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,2993,2025-02-11,Pending
+821,22104,201212,DSP Mutual Fund Multi Cap Fund 31,Redemption,83962,2026-04-06,Pending
+822,87200,707312,HDFC Mutual Fund Mid Cap Fund 30,Lumpsum,20971,2026-01-04,Pending
+823,13577,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,7780,2025-09-04,Verified
+824,35917,367334,HDFC Mutual Fund Large Cap Fund 25,Redemption,40404,2026-02-20,Pending
+825,79825,544516,SBI Mutual Fund Large Cap Fund 6,SIP,45589,2025-08-21,Pending
+826,53134,592424,UTI Mutual Fund Index Fund 14,Redemption,22378,2025-06-04,Pending
+827,51090,592424,UTI Mutual Fund Index Fund 14,Lumpsum,24247,2025-11-06,Verified
+828,59919,422128,UTI Mutual Fund Flexi Cap Fund 3,Lumpsum,63776,2025-10-10,Verified
+829,47124,857086,Canara Robeco ELSS Fund 29,Lumpsum,67107,2025-06-23,Pending
+830,60518,843204,Mirae Asset Large Cap Fund 2,Lumpsum,81868,2025-03-31,Pending
+831,94895,120841,quant Mid Cap Fund - Growth Option - Direct Plan,SIP,34604,2025-08-01,Pending
+832,43753,721881,Aditya Birla Sun Life Small Cap Fund 5,SIP,7204,2025-06-24,Verified
+833,16545,721881,Aditya Birla Sun Life Small Cap Fund 5,Redemption,27946,2025-10-29,Pending
+834,94157,664735,Franklin Templeton Hybrid Fund 19,SIP,59659,2026-01-27,Pending
+835,15745,592424,UTI Mutual Fund Index Fund 14,SIP,20128,2025-07-17,Verified
+836,13535,975687,Nippon India Index Fund 21,Lumpsum,54316,2025-02-23,Verified
+837,44627,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,90853,2025-08-10,Verified
+838,69793,713340,Tata Mutual Fund Hybrid Fund 23,Redemption,54263,2026-01-18,Pending
+839,18444,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,63402,2025-10-28,Verified
+840,75491,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,9444,2025-11-25,Pending
+841,88273,668248,Franklin Templeton Index Fund 24,Lumpsum,64186,2025-07-20,Pending
+842,10291,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,34911,2025-08-21,Pending
+843,51311,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,31466,2025-12-27,Verified
+844,25496,664735,Franklin Templeton Hybrid Fund 19,SIP,39441,2025-04-20,Verified
+845,70017,707312,HDFC Mutual Fund Mid Cap Fund 30,SIP,38822,2025-10-14,Verified
+846,69741,260805,SBI Mutual Fund Multi Cap Fund 33,Redemption,21314,2025-06-17,Verified
+847,56353,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Lumpsum,32311,2025-08-19,Pending
+848,43865,527330,Nippon India Small Cap Fund 15,Redemption,50862,2026-01-23,Pending
+849,98956,326036,Canara Robeco Large Cap Fund 16,SIP,7321,2026-05-03,Pending
+850,81245,720564,Franklin Templeton Sectoral Fund 20,SIP,11607,2025-06-18,Pending
+851,79037,975687,Nippon India Index Fund 21,SIP,30713,2025-11-27,Pending
+852,10380,260805,SBI Mutual Fund Multi Cap Fund 33,SIP,10624,2025-10-18,Verified
+853,92917,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,74339,2026-02-13,Pending
+854,24864,672467,HDFC Mutual Fund Sectoral Fund 4,Redemption,63564,2025-10-18,Verified
+855,18855,668248,Franklin Templeton Index Fund 24,SIP,97015,2026-02-23,Verified
+856,77907,668248,Franklin Templeton Index Fund 24,Redemption,53548,2025-12-07,Verified
+857,60995,234499,Kotak Mutual Fund Multi Cap Fund 7,Redemption,77309,2025-10-10,Pending
+858,88801,944560,Nippon India Small Cap Fund 28,SIP,65440,2025-05-24,Verified
+859,82811,317186,Axis Mutual Fund ELSS Fund 34,SIP,12341,2025-09-23,Verified
+860,67656,234499,Kotak Mutual Fund Multi Cap Fund 7,SIP,56878,2025-12-13,Pending
+861,49986,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,8344,2025-06-10,Verified
+862,16777,592424,UTI Mutual Fund Index Fund 14,Redemption,4751,2025-12-08,Pending
+863,69321,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,32984,2026-03-24,Pending
+864,72099,713340,Tata Mutual Fund Hybrid Fund 23,SIP,13640,2025-11-26,Verified
+865,33899,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,83149,2025-08-21,Verified
+866,17756,687271,Tata Mutual Fund Flexi Cap Fund 11,Lumpsum,19910,2025-02-08,Verified
+867,38002,792521,DSP Mutual Fund ELSS Fund 1,Redemption,870,2025-03-02,Verified
+868,93709,260805,SBI Mutual Fund Multi Cap Fund 33,Redemption,41415,2025-08-14,Verified
+869,36513,944560,Nippon India Small Cap Fund 28,Redemption,55379,2025-04-11,Verified
+870,83006,739532,Edelweiss Mutual Fund Hybrid Fund 13,Redemption,47769,2025-03-23,Verified
+871,13937,857086,Canara Robeco ELSS Fund 29,SIP,21042,2026-04-17,Verified
+872,24297,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,40315,2025-04-02,Verified
+873,55163,346758,Nippon India Debt Fund 8,Lumpsum,94736,2026-01-23,Pending
+874,86506,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,99500,2025-04-23,Verified
+875,66022,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,63807,2025-09-11,Pending
+876,81410,326036,Canara Robeco Large Cap Fund 16,Redemption,74741,2025-08-18,Pending
+877,41316,317186,Axis Mutual Fund ELSS Fund 34,Redemption,62934,2025-09-19,Verified
+878,89247,367334,HDFC Mutual Fund Large Cap Fund 25,SIP,15331,2026-03-03,Verified
+879,49605,739532,Edelweiss Mutual Fund Hybrid Fund 13,Lumpsum,33487,2025-12-21,Verified
+880,10894,664735,Franklin Templeton Hybrid Fund 19,Redemption,90064,2026-03-26,Verified
+881,84939,407874,UTI Mutual Fund Flexi Cap Fund 18,Redemption,27858,2025-03-11,Verified
+882,72638,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,83717,2026-04-08,Pending
+883,52650,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,45370,2026-04-25,Pending
+884,57083,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,33931,2025-09-26,Verified
+885,62093,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Redemption,59549,2025-11-13,Pending
+886,77925,537685,ICICI Prudential Large Cap Fund 9,Redemption,55259,2025-09-27,Verified
+887,94656,843204,Mirae Asset Large Cap Fund 2,SIP,55702,2025-03-24,Pending
+888,10144,668248,Franklin Templeton Index Fund 24,SIP,58054,2025-02-21,Verified
+889,86873,880836,DSP Mutual Fund Small Cap Fund 32,Lumpsum,73190,2025-02-11,Verified
+890,90813,621203,HDFC Mutual Fund Debt Fund 12,Lumpsum,8230,2025-04-29,Pending
+891,66824,232331,Aditya Birla Sun Life Flexi Cap Fund 26,Lumpsum,51217,2025-04-10,Pending
+892,34047,944560,Nippon India Small Cap Fund 28,Lumpsum,71170,2025-12-31,Pending
+893,95471,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,75691,2025-06-22,Pending
+894,86697,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,78250,2025-10-09,Pending
+895,53133,664735,Franklin Templeton Hybrid Fund 19,SIP,22390,2026-05-04,Pending
+896,81987,668248,Franklin Templeton Index Fund 24,Redemption,96432,2025-07-22,Pending
+897,50879,234499,Kotak Mutual Fund Multi Cap Fund 7,Lumpsum,13356,2025-03-05,Pending
+898,93270,527330,Nippon India Small Cap Fund 15,Lumpsum,3407,2026-04-13,Verified
+899,22100,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,19320,2025-01-02,Verified
+900,34066,592424,UTI Mutual Fund Index Fund 14,Lumpsum,96313,2025-08-08,Verified
+901,83957,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,90460,2026-04-26,Verified
+902,39604,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Redemption,70411,2025-06-23,Pending
+903,38698,592424,UTI Mutual Fund Index Fund 14,SIP,31073,2025-12-30,Verified
+904,18084,260805,SBI Mutual Fund Multi Cap Fund 33,Redemption,45046,2025-05-12,Verified
+905,25648,119092,HDFC Money Market Fund - Growth Option - Direct Plan,Lumpsum,58040,2025-03-09,Pending
+906,13084,720564,Franklin Templeton Sectoral Fund 20,Lumpsum,15041,2025-09-12,Pending
+907,90412,346758,Nippon India Debt Fund 8,SIP,54647,2025-11-14,Verified
+908,79852,527330,Nippon India Small Cap Fund 15,SIP,38402,2025-04-03,Verified
+909,84619,843204,Mirae Asset Large Cap Fund 2,SIP,69794,2026-03-11,Pending
+910,68448,720564,Franklin Templeton Sectoral Fund 20,SIP,98604,2025-10-27,Pending
+911,18957,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,87475,2025-08-31,Verified
+912,30633,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,89739,2026-04-18,Pending
+913,36627,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,63098,2025-10-12,Pending
+914,27021,428488,Canara Robeco Mid Cap Fund 17,Lumpsum,88168,2025-01-10,Pending
+915,37093,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,82373,2025-08-29,Pending
+916,22955,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,68636,2025-02-10,Pending
+917,90802,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,SIP,92195,2025-12-19,Pending
+918,58513,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,13263,2026-01-31,Verified
+919,99942,527330,Nippon India Small Cap Fund 15,Redemption,93790,2025-07-01,Pending
+920,83523,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,33747,2025-06-04,Pending
+921,23796,621203,HDFC Mutual Fund Debt Fund 12,Redemption,32259,2026-01-18,Pending
+922,97567,201212,DSP Mutual Fund Multi Cap Fund 31,SIP,54168,2026-02-04,Verified
+923,93302,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,61521,2025-10-18,Verified
+924,89960,713340,Tata Mutual Fund Hybrid Fund 23,Lumpsum,9962,2025-06-28,Verified
+925,24122,232331,Aditya Birla Sun Life Flexi Cap Fund 26,SIP,53037,2025-11-14,Pending
+926,90282,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,87633,2025-02-08,Pending
+927,15207,428488,Canara Robeco Mid Cap Fund 17,Lumpsum,98175,2026-05-13,Verified
+928,50189,428488,Canara Robeco Mid Cap Fund 17,SIP,73832,2026-01-08,Verified
+929,95934,668248,Franklin Templeton Index Fund 24,Lumpsum,82933,2026-03-11,Verified
+930,60804,668248,Franklin Templeton Index Fund 24,Lumpsum,54655,2026-05-13,Pending
+931,23254,201212,DSP Mutual Fund Multi Cap Fund 31,Lumpsum,44277,2025-06-26,Verified
+932,17222,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,91360,2025-11-19,Pending
+933,13794,944560,Nippon India Small Cap Fund 28,Lumpsum,1690,2025-07-20,Pending
+934,76860,317186,Axis Mutual Fund ELSS Fund 34,Lumpsum,73326,2026-04-19,Verified
+935,39354,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Lumpsum,611,2026-02-04,Verified
+936,61764,537685,ICICI Prudential Large Cap Fund 9,Redemption,3908,2025-11-27,Pending
+937,40822,687271,Tata Mutual Fund Flexi Cap Fund 11,Redemption,15764,2026-03-08,Verified
+938,12789,713340,Tata Mutual Fund Hybrid Fund 23,Redemption,54274,2025-04-23,Verified
+939,20958,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,2356,2025-01-13,Verified
+940,55474,713340,Tata Mutual Fund Hybrid Fund 23,Redemption,50435,2025-12-13,Verified
+941,36004,792521,DSP Mutual Fund ELSS Fund 1,Lumpsum,56791,2025-04-04,Pending
+942,97923,843204,Mirae Asset Large Cap Fund 2,Redemption,3364,2025-11-01,Pending
+943,16612,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,SIP,79943,2025-07-24,Verified
+944,17123,672467,HDFC Mutual Fund Sectoral Fund 4,Redemption,61063,2025-10-02,Verified
+945,96059,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,51713,2026-04-06,Verified
+946,24510,720564,Franklin Templeton Sectoral Fund 20,Redemption,33062,2025-09-01,Pending
+947,17115,544516,SBI Mutual Fund Large Cap Fund 6,Redemption,45064,2025-07-01,Verified
+948,33954,346758,Nippon India Debt Fund 8,SIP,59165,2025-05-23,Pending
+949,83322,991366,ICICI Prudential Debt Fund 10,SIP,36562,2025-09-21,Verified
+950,94479,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,83084,2026-02-12,Pending
+951,32586,843204,Mirae Asset Large Cap Fund 2,SIP,5344,2025-01-19,Pending
+952,77441,668248,Franklin Templeton Index Fund 24,Redemption,61031,2026-03-23,Pending
+953,45138,843204,Mirae Asset Large Cap Fund 2,Redemption,14884,2026-04-24,Pending
+954,91940,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,27121,2026-01-27,Pending
+955,40245,707312,HDFC Mutual Fund Mid Cap Fund 30,Redemption,59424,2025-07-27,Pending
+956,21000,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Lumpsum,19606,2026-01-02,Pending
+957,87219,234499,Kotak Mutual Fund Multi Cap Fund 7,SIP,3836,2025-03-29,Pending
+958,95751,527330,Nippon India Small Cap Fund 15,Lumpsum,61033,2025-04-24,Pending
+959,81558,346758,Nippon India Debt Fund 8,SIP,35646,2025-02-24,Pending
+960,80628,544516,SBI Mutual Fund Large Cap Fund 6,SIP,25114,2025-02-05,Pending
+961,66256,672467,HDFC Mutual Fund Sectoral Fund 4,Lumpsum,49146,2026-01-09,Pending
+962,22334,260805,SBI Mutual Fund Multi Cap Fund 33,SIP,19060,2025-09-21,Verified
+963,19589,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,63568,2025-12-29,Pending
+964,96397,120841,quant Mid Cap Fund - Growth Option - Direct Plan,Redemption,16416,2025-02-16,Verified
+965,13409,125497,SBI Small Cap Fund - Direct Plan - Growth,Redemption,95357,2026-02-07,Pending
+966,60015,880836,DSP Mutual Fund Small Cap Fund 32,Redemption,26801,2026-05-07,Pending
+967,40434,739532,Edelweiss Mutual Fund Hybrid Fund 13,SIP,97816,2025-07-23,Pending
+968,10984,672467,HDFC Mutual Fund Sectoral Fund 4,SIP,31467,2025-06-04,Verified
+969,94016,880836,DSP Mutual Fund Small Cap Fund 32,SIP,69641,2025-09-23,Verified
+970,91286,346758,Nippon India Debt Fund 8,Redemption,80261,2025-01-23,Verified
+971,28309,407874,UTI Mutual Fund Flexi Cap Fund 18,Lumpsum,17028,2025-11-11,Pending
+972,70012,991366,ICICI Prudential Debt Fund 10,SIP,89199,2025-03-03,Verified
+973,83121,544516,SBI Mutual Fund Large Cap Fund 6,Lumpsum,30872,2025-12-11,Verified
+974,35918,721881,Aditya Birla Sun Life Small Cap Fund 5,Redemption,12985,2025-03-20,Verified
+975,93181,428488,Canara Robeco Mid Cap Fund 17,Redemption,23279,2026-04-25,Verified
+976,16558,975687,Nippon India Index Fund 21,SIP,20694,2025-12-11,Verified
+977,10315,664735,Franklin Templeton Hybrid Fund 19,SIP,88658,2025-10-14,Verified
+978,67090,668248,Franklin Templeton Index Fund 24,Lumpsum,31118,2026-05-15,Pending
+979,66214,843204,Mirae Asset Large Cap Fund 2,Lumpsum,92333,2026-04-13,Verified
+980,40581,708630,Kotak Mutual Fund Debt Fund 22,Redemption,79586,2025-05-09,Verified
+981,72544,317186,Axis Mutual Fund ELSS Fund 34,Redemption,92373,2025-03-05,Verified
+982,71511,537685,ICICI Prudential Large Cap Fund 9,Lumpsum,85153,2026-01-26,Pending
+983,17947,880134,DSP Mutual Fund Hybrid Fund 27,Lumpsum,31787,2025-09-14,Verified
+984,39898,668248,Franklin Templeton Index Fund 24,Lumpsum,6017,2026-04-26,Verified
+985,85574,422128,UTI Mutual Fund Flexi Cap Fund 3,SIP,5043,2026-02-05,Verified
+986,97343,664735,Franklin Templeton Hybrid Fund 19,Redemption,67201,2025-12-21,Verified
+987,30596,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,SIP,89095,2026-04-24,Verified
+988,70934,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Lumpsum,34962,2025-02-24,Pending
+989,75854,944560,Nippon India Small Cap Fund 28,Redemption,70424,2025-05-22,Verified
+990,88171,880134,DSP Mutual Fund Hybrid Fund 27,Lumpsum,67156,2025-02-19,Verified
+991,90002,119092,HDFC Money Market Fund - Growth Option - Direct Plan,SIP,58311,2025-08-18,Pending
+992,26449,527330,Nippon India Small Cap Fund 15,SIP,71892,2025-07-21,Pending
+993,29659,125497,SBI Small Cap Fund - Direct Plan - Growth,Lumpsum,29227,2025-09-17,Verified
+994,82103,317186,Axis Mutual Fund ELSS Fund 34,Redemption,6794,2026-05-08,Pending
+995,81260,346758,Nippon India Debt Fund 8,Redemption,16877,2026-01-26,Verified
+996,96733,857086,Canara Robeco ELSS Fund 29,Lumpsum,48750,2026-02-27,Pending
+997,29186,407874,UTI Mutual Fund Flexi Cap Fund 18,SIP,52319,2025-03-05,Verified
+998,27608,720564,Franklin Templeton Sectoral Fund 20,Redemption,83204,2026-01-18,Verified
+999,74969,428488,Canara Robeco Mid Cap Fund 17,Redemption,67830,2025-06-29,Verified
+1000,29104,326036,Canara Robeco Large Cap Fund 16,Redemption,80576,2025-08-15,Verified

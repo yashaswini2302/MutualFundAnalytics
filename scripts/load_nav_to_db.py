@@ -17,7 +17,24 @@ nav = nav.merge(
     how="left"
 )
 
-nav["date_id"] = None
+# Get date IDs from dim_date
+dates = pd.read_sql(
+    "SELECT date_id, full_date FROM dim_date",
+    conn
+)
+
+# Make sure both columns have the same format
+nav["date"] = pd.to_datetime(nav["date"]).dt.strftime("%Y-%m-%d")
+dates["full_date"] = pd.to_datetime(dates["full_date"]).dt.strftime("%Y-%m-%d")
+
+# Merge to get date_id
+nav = nav.merge(
+    dates,
+    left_on="date",
+    right_on="full_date",
+    how="left",
+    validate="many_to_one"
+)
 
 nav = nav[
     [

@@ -1,28 +1,43 @@
 import pandas as pd
-import os
+import numpy as np
 
-raw_folder = "data/raw"
+# Read updated fund master (40 schemes)
+funds = pd.read_csv("data/processed/fund_master.csv")
 
-all_data = []
+# Create business-day date range
+dates = pd.date_range(
+    start="2022-01-01",
+    end="2026-06-20",
+    freq="B"
+)
 
-for file in os.listdir(raw_folder):
+rows = []
 
-    if file.endswith(".csv") and file != "nav_history.csv":
+np.random.seed(42)
 
-        file_path = os.path.join(raw_folder, file)
+for _, fund in funds.iterrows():
 
-        df = pd.read_csv(file_path)
+    nav = np.random.uniform(10, 100)
 
-        df["fund_name"] = file.replace(".csv", "")
+    for date in dates:
 
-        all_data.append(df)
+        change = np.random.normal(0.0005, 0.015)
+        nav *= (1 + change)
 
-nav_history = pd.concat(all_data, ignore_index=True)
+        nav = max(nav, 5)
 
-nav_history.to_csv(
+        rows.append({
+            "date": date.strftime("%d-%m-%Y"),
+            "nav": round(nav, 4),
+            "fund_name": fund["scheme_name"]
+        })
+
+nav_df = pd.DataFrame(rows)
+
+nav_df.to_csv(
     "data/raw/nav_history.csv",
     index=False
 )
 
-print(nav_history.head())
-print("nav_history.csv created successfully!")
+print("NAV history generated.")
+print("Total records:", len(nav_df))
